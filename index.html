@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Piedra Angular: apologética cristiana para pensar la fe con honestidad, razones y evidencia.">
+  <title>Piedra Angular | Apologética para pensar la fe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#inicio" data-route="inicio" aria-label="Piedra Angular, inicio">
+        <span class="brand-mark" aria-hidden="true">✦</span>
+        <span>Piedra Angular</span>
+      </a>
+
+      <nav class="topnav" aria-label="Navegación principal">
+        <a href="#inicio" data-route="inicio" class="topnav-link is-active">Inicio</a>
+        <a href="#preguntas" data-route="preguntas" class="topnav-link">Preguntas</a>
+        <a href="#articulos" data-route="articulos" class="topnav-link">Artículos</a>
+        <a href="#nosotros" data-route="nosotros" class="topnav-link">Sobre el proyecto</a>
+        <a href="#contacto" data-route="contacto" class="topnav-link">Contacto</a>
+      </nav>
+
+      <button class="icon-button menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="sidebar">
+        <span></span><span></span><span></span>
+      </button>
+    </header>
+
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-inner">
+        <p class="sidebar-label">explorar</p>
+        <nav class="route-nav" aria-label="Rutas de exploración">
+          <a class="route-link route-link--turquoise is-active" href="#dudas" data-route="dudas">
+            <span class="route-icon" aria-hidden="true">◌</span>
+            <span>
+              <strong>Tengo dudas</strong>
+              <small>preguntar también es pensar</small>
+            </span>
+          </a>
+          <a class="route-link route-link--orange" href="#esceptico" data-route="esceptico">
+            <span class="route-icon" aria-hidden="true">⚖</span>
+            <span>
+              <strong>Soy escéptico</strong>
+              <small>razones antes de creer</small>
+            </span>
+          </a>
+          <a class="route-link route-link--yellow" href="#ensenar" data-route="ensenar">
+            <span class="route-icon" aria-hidden="true">▤</span>
+            <span>
+              <strong>Quiero enseñar</strong>
+              <small>material para compartir</small>
+            </span>
+          </a>
+        </nav>
+
+        <p class="sidebar-label sidebar-label--topics">temas</p>
+        <nav class="topic-nav" aria-label="Temas">
+          <a href="#articulos" data-route="articulos"><span class="topic-dot topic-dot--turquoise"></span>Ciencia y fe</a>
+          <a href="#articulos" data-route="articulos"><span class="topic-dot topic-dot--yellow"></span>Historia bíblica</a>
+          <a href="#preguntas" data-route="preguntas"><span class="topic-dot topic-dot--orange"></span>Jesús histórico</a>
+          <a href="#preguntas" data-route="preguntas"><span class="topic-dot topic-dot--muted"></span>Sufrimiento y mal</a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <span class="status-dot"></span>
+          <span>un espacio para pensar en serio</span>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content" id="main-content" tabindex="-1">
+      <section class="view view--home is-visible" data-view="inicio">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow eyebrow--turquoise">respuestas con fundamento</p>
+            <h1>La fe también puede hacer preguntas.</h1>
+            <p class="hero-text">Piedra Angular es un espacio para explorar el cristianismo desde la razón, la historia y la evidencia, sin apuros y sin juicios.</p>
+            <div class="button-row">
+              <a class="button button--primary" href="#dudas" data-route="dudas">Empezar a explorar <span aria-hidden="true">→</span></a>
+              <a class="button button--secondary" href="#preguntas" data-route="preguntas">Ver preguntas</a>
+            </div>
+          </div>
+          <div class="hero-statement" aria-label="Manifiesto del proyecto">
+            <span class="statement-mark">“</span>
+            <p>No te vamos a pedir que apagues tu pensamiento para acercarte a la fe.</p>
+            <span class="statement-caption">razón · historia · evidencia</span>
+          </div>
+        </div>
+
+        <div class="section-block">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow eyebrow--muted">tres maneras de empezar</p>
+              <h2>Encontrá tu punto de partida</h2>
+            </div>
+            <span class="section-count">01 — 03</span>
+          </div>
+          <div class="route-cards">
+            <a class="route-card route-card--turquoise" href="#dudas" data-route="dudas">
+              <span class="card-number">01</span>
+              <span class="card-icon">◌</span>
+              <h3>Tengo dudas</h3>
+              <p>Preguntas honestas para quienes creen, pero no quieren dejar de pensar.</p>
+              <span class="card-link">explorar ruta <span aria-hidden="true">↗</span></span>
+            </a>
+            <a class="route-card route-card--orange" href="#esceptico" data-route="esceptico">
+              <span class="card-number">02</span>
+              <span class="card-icon">⚖</span>
+              <h3>Soy escéptico</h3>
+              <p>Argumentos que se pueden examinar con rigor, fuentes y libertad.</p>
+              <span class="card-link">explorar ruta <span aria-hidden="true">↗</span></span>
+            </a>
+            <a class="route-card route-card--yellow" href="#ensenar" data-route="ensenar">
+              <span class="card-number">03</span>
+              <span class="card-icon">▤</span>
+              <h3>Quiero enseñar</h3>
+              <p>Recursos ordenados para preparar una charla, una clase o una conversación.</p>
+              <span class="card-link">explorar ruta <span aria-hidden="true">↗</span></span>
+            </a>
+          </div>
+        </div>
+
+        <div class="section-block section-block--compact">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow eyebrow--muted">para empezar la conversación</p>
+              <h2>Preguntas que merecen tiempo</h2>
+            </div>
+            <a class="text-link" href="#preguntas" data-route="preguntas">ver todas <span aria-hidden="true">→</span></a>
+          </div>
+          <div class="question-preview">
+            <a href="#preguntas" data-route="preguntas">¿Cómo sabemos que la Biblia no fue alterada? <span>↗</span></a>
+            <a href="#preguntas" data-route="preguntas">¿Ciencia y fe son incompatibles? <span>↗</span></a>
+            <a href="#preguntas" data-route="preguntas">Si Dios es bueno, ¿por qué existe el sufrimiento? <span>↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="view" data-view="dudas">
+        <div class="page-intro page-intro--turquoise">
+          <p class="eyebrow eyebrow--turquoise">tengo dudas</p>
+          <h1>Creer no significa dejar de preguntar.</h1>
+          <p>Si algo te hace ruido, no estás fallando en tu fe. Estás pensando en serio. Acá vas a encontrar respuestas honestas a las preguntas que muchas veces incomodan.</p>
+        </div>
+        <div class="content-list">
+          <p class="eyebrow eyebrow--muted">empezá por estas preguntas</p>
+          <a class="content-row" href="#preguntas" data-route="preguntas"><span>¿Por qué Dios permite el sufrimiento?</span><b>↗</b></a>
+          <a class="content-row" href="#preguntas" data-route="preguntas"><span>¿Por qué hay tantas denominaciones distintas?</span><b>↗</b></a>
+          <a class="content-row" href="#preguntas" data-route="preguntas"><span>¿Es pecado tener dudas?</span><b>↗</b></a>
+        </div>
+        <blockquote class="quote quote--turquoise">La duda no es lo opuesto a la fe; puede ser el camino para que la fe sea realmente tuya.</blockquote>
+      </section>
+
+      <section class="view" data-view="esceptico">
+        <div class="page-intro page-intro--orange">
+          <p class="eyebrow eyebrow--orange">soy escéptico</p>
+          <h1>No te vamos a pedir que creas sin razones.</h1>
+          <p>Encontrá argumentos evaluados con el mismo rigor que le pedirías a cualquier otra afirmación extraordinaria: evidencia, lógica y fuentes verificables.</p>
+        </div>
+        <div class="argument-grid">
+          <article class="argument-card"><span class="card-icon card-icon--turquoise">◈</span><h2>El ajuste fino del universo</h2><p>Las constantes físicas parecen calibradas con una precisión difícil de explicar por azar.</p></article>
+          <article class="argument-card"><span class="card-icon card-icon--yellow">◌</span><h2>La evidencia histórica</h2><p>Qué hechos sobre Jesús aceptan incluso historiadores no cristianos y cómo se evalúan.</p></article>
+          <article class="argument-card"><span class="card-icon card-icon--orange">⌁</span><h2>La existencia de Dios</h2><p>Un recorrido por argumentos filosóficos clásicos y sus principales objeciones.</p></article>
+        </div>
+      </section>
+
+      <section class="view" data-view="ensenar">
+        <div class="page-intro page-intro--yellow">
+          <p class="eyebrow eyebrow--yellow">quiero enseñar</p>
+          <h1>Material listo para compartir.</h1>
+          <p>Recursos organizados y con fuentes citadas para que puedas preparar una clase, un estudio o una charla sin armar todo desde cero.</p>
+        </div>
+        <div class="resource-list">
+          <p class="eyebrow eyebrow--muted">recursos disponibles</p>
+          <button class="resource-row" type="button"><span class="resource-icon">▤</span><span><strong>Guías de estudio por tema</strong><small>listas para imprimir o proyectar</small></span><b>↓</b></button>
+          <button class="resource-row" type="button"><span class="resource-icon">☷</span><span><strong>Preguntas y respuestas resumidas</strong><small>para responder dudas en el momento</small></span><b>↓</b></button>
+          <button class="resource-row" type="button"><span class="resource-icon">“</span><span><strong>Citas y fuentes verificadas</strong><small>para respaldar cada afirmación</small></span><b>↓</b></button>
+        </div>
+      </section>
+
+      <section class="view" data-view="preguntas">
+        <div class="page-intro page-intro--orange">
+          <p class="eyebrow eyebrow--orange">preguntas frecuentes</p>
+          <h1>Buscá una respuesta.</h1>
+          <p>Una biblioteca inicial de preguntas difíciles, respuestas claras y fuentes para profundizar.</p>
+        </div>
+        <div class="faq-toolbar"><label class="search-field"><span aria-hidden="true">⌕</span><input type="search" id="faq-search" placeholder="buscar una pregunta..." aria-label="Buscar una pregunta"></label><span class="filter-note">4 preguntas iniciales</span></div>
+        <div class="faq-list" id="faq-list">
+          <details open><summary>¿Cómo sabemos que la Biblia no fue alterada?</summary><p>La crítica textual compara miles de manuscritos antiguos entre sí para reconstruir el texto original con una precisión muy alta. Esta respuesta se ampliará con fuentes y referencias.</p></details>
+          <details><summary>¿Ciencia y fe son incompatibles?</summary><p>Son formas distintas de hacer preguntas sobre la realidad. El conflicto no es inevitable: depende de qué afirmación se hace y qué método corresponde examinarla.</p></details>
+          <details><summary>Si Dios es bueno, ¿por qué existe el sufrimiento?</summary><p>Es una de las objeciones más profundas. La abordaremos desde la filosofía, la experiencia humana y la teología cristiana.</p></details>
+          <details><summary>¿Existió realmente Jesús como figura histórica?</summary><p>La existencia histórica de Jesús cuenta con referencias cristianas y no cristianas antiguas. Próximamente reuniremos las fuentes principales.</p></details>
+        </div>
+      </section>
+
+      <section class="view" data-view="articulos">
+        <div class="page-intro page-intro--turquoise"><p class="eyebrow eyebrow--turquoise">material para profundizar</p><h1>Artículos.</h1><p>Ideas ordenadas para leer con calma y seguir investigando.</p></div>
+        <div class="article-grid"><article class="article-card"><span class="article-tag">ciencia y fe</span><h2>¿El Big Bang refuta la creación?</h2><p>Un recorrido por el origen del universo y las preguntas que la cosmología deja abiertas.</p><small>próximamente · 8 min</small></article><article class="article-card"><span class="article-tag">historia bíblica</span><h2>Manuscritos: ¿qué tan confiable es el texto?</h2><p>Cómo funciona la crítica textual y qué podemos saber de los documentos antiguos.</p><small>próximamente · 6 min</small></article><article class="article-card"><span class="article-tag">Jesús histórico</span><h2>Lo que dicen las fuentes no cristianas</h2><p>Josefo, Tácito y otros testimonios para mirar la historia desde distintos ángulos.</p><small>próximamente · 10 min</small></article></div>
+      </section>
+
+      <section class="view" data-view="nosotros">
+        <div class="page-intro page-intro--yellow"><p class="eyebrow eyebrow--yellow">sobre el proyecto</p><h1>Un espacio para pensar en serio.</h1><p>Piedra Angular nace para acompañar conversaciones difíciles sobre la fe, con honestidad intelectual, respeto y fuentes claras.</p></div>
+        <div class="about-grid"><div class="about-stat"><strong>01</strong><span>razón sin miedo</span></div><div class="about-stat"><strong>02</strong><span>historia con contexto</span></div><div class="about-stat"><strong>03</strong><span>fe sin respuestas fáciles</span></div></div>
+      </section>
+
+      <section class="view" data-view="contacto">
+        <div class="page-intro page-intro--turquoise"><p class="eyebrow eyebrow--turquoise">contacto</p><h1>Escribinos tu pregunta.</h1><p>Todas las preguntas se reciben con cuidado, sin apuro y sin juzgar de dónde vienen.</p></div>
+        <form class="contact-form" id="contact-form"><label>nombre<input type="text" name="nombre" placeholder="tu nombre" required></label><label>correo electrónico<input type="email" name="email" placeholder="nombre@correo.com" required></label><label>tu pregunta<textarea name="pregunta" placeholder="escribí acá lo que querés preguntar..." rows="5" required></textarea></label><button class="button button--primary" type="submit">Enviar pregunta <span aria-hidden="true">→</span></button><p class="form-message" id="form-message" role="status"></p></form>
+      </section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
