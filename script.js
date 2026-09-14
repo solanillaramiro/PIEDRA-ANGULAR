@@ -2,6 +2,13 @@ const views = [...document.querySelectorAll('.view')];
 const routeLinks = [...document.querySelectorAll('[data-route]')];
 const sidebar = document.querySelector('#sidebar');
 const menuToggle = document.querySelector('.menu-toggle');
+const menuBackdrop = document.querySelector('.menu-backdrop');
+
+function closeMenu() {
+  sidebar.classList.remove('is-open');
+  menuBackdrop.classList.remove('is-visible');
+  menuToggle.setAttribute('aria-expanded', 'false');
+}
 
 function setRoute(route) {
   const target = document.querySelector(`[data-view="${route}"]`) || document.querySelector('[data-view="inicio"]');
@@ -10,8 +17,7 @@ function setRoute(route) {
   views.forEach((view) => view.classList.toggle('is-visible', view === target));
   routeLinks.forEach((link) => link.classList.toggle('is-active', link.dataset.route === activeRoute));
   document.title = activeRoute === 'inicio' ? 'Piedra Angular | Apologética para pensar la fe' : `${target.querySelector('h1')?.textContent || 'Piedra Angular'} | Piedra Angular`;
-  sidebar.classList.remove('is-open');
-  menuToggle.setAttribute('aria-expanded', 'false');
+  closeMenu();
   document.querySelector('#main-content').focus({ preventScroll: true });
 }
 
@@ -28,7 +34,14 @@ window.addEventListener('popstate', () => setRoute(window.location.hash.slice(1)
 
 menuToggle.addEventListener('click', () => {
   const isOpen = sidebar.classList.toggle('is-open');
+  menuBackdrop.classList.toggle('is-visible', isOpen);
   menuToggle.setAttribute('aria-expanded', String(isOpen));
+});
+
+menuBackdrop.addEventListener('click', closeMenu);
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') closeMenu();
 });
 
 document.querySelector('#faq-search').addEventListener('input', (event) => {
