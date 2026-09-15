@@ -201,8 +201,25 @@
       </section>
 
       <section class="view" data-view="articulos">
-        <div class="page-intro page-intro--turquoise"><p class="eyebrow eyebrow--turquoise">material para profundizar</p><h1>Artículos.</h1><p>Ideas ordenadas para leer con calma y seguir investigando.</p></div>
-        <div class="article-grid"><article class="article-card"><span class="article-tag">ciencia y fe</span><h2>¿El Big Bang refuta la creación?</h2><p>Un recorrido por el origen del universo y las preguntas que la cosmología deja abiertas.</p><small>próximamente · 8 min</small></article><article class="article-card"><span class="article-tag">historia bíblica</span><h2>Manuscritos: ¿qué tan confiable es el texto?</h2><p>Cómo funciona la crítica textual y qué podemos saber de los documentos antiguos.</p><small>próximamente · 6 min</small></article><article class="article-card"><span class="article-tag">Jesús histórico</span><h2>Lo que dicen las fuentes no cristianas</h2><p>Josefo, Tácito y otros testimonios para mirar la historia desde distintos ángulos.</p><small>próximamente · 10 min</small></article></div>
+        <div class="page-intro page-intro--turquoise">
+          <p class="eyebrow eyebrow--turquoise">biblioteca de artículos</p>
+          <h1>Artículos.</h1>
+          <p>Material para leer con calma, pensar con rigor y volver a revisar cuando haga falta.</p>
+        </div>
+
+        <div class="article-library">
+          <p class="article-library__intro">Cada texto tendrá su propia página de lectura, para que la biblioteca siga creciendo sin cargar demasiado el sitio principal.</p>
+
+          <div class="article-toolbar">
+            <label class="article-search" aria-label="Buscar artículos">
+              <span aria-hidden="true">⌕</span>
+              <input type="search" id="article-search" placeholder="buscar artículo...">
+            </label>
+            <div class="article-filters" id="article-filters"></div>
+          </div>
+
+          <div class="article-grid" id="article-grid"></div>
+        </div>
       </section>
 
       <section class="view" data-view="nosotros">
@@ -216,6 +233,6 @@
       </section>
     </main>
   </div>
-  <script src="script.js"></script>
+  <script src="script.js?v=20260915-3"></script>
 </body>
 </html>

@@ -4,6 +4,94 @@ const sidebar = document.querySelector('#sidebar');
 const menuToggle = document.querySelector('.menu-toggle');
 const menuBackdrop = document.querySelector('.menu-backdrop');
 
+const ARTICLE_CATEGORIES = ['todos', 'Cosmovisión', 'Historia bíblica', 'Jesús histórico', 'Sufrimiento y mal'];
+
+const articleLibrary = [
+  {
+    id: 'creacion-del-universo',
+    title: 'Creación del universo',
+    category: 'Cosmovisión',
+    date: '15 de septiembre de 2026',
+    coverClass: 'cosmovision',
+    excerpt: 'Un recorrido para pensar el origen del universo desde la ciencia, la filosofía y la fe.',
+    description: 'El origen del universo es una pregunta que toca la ciencia, la filosofía y la fe.',
+    file: 'Artículos/Creación del universo.pdf',
+    url: 'Artículos/creacion-del-universo.html',
+  },
+];
+
+const articleState = {
+  query: '',
+  category: 'todos',
+};
+
+function getFilteredArticles() {
+  const query = articleState.query.trim().toLowerCase();
+  return articleLibrary.filter((article) => {
+    const matchesCategory = articleState.category === 'todos' || article.category === articleState.category;
+    const haystack = `${article.title} ${article.description} ${article.category}`.toLowerCase();
+    return matchesCategory && (!query || haystack.includes(query));
+  });
+}
+
+function renderFilters() {
+  const filters = document.querySelector('#article-filters');
+  if (!filters) return;
+
+  const categories = ARTICLE_CATEGORIES;
+  filters.innerHTML = categories.map((category) => `
+    <button type="button" class="article-filter ${articleState.category === category ? 'is-active' : ''}" data-category="${category}">
+      ${category}
+    </button>
+  `).join('');
+}
+
+function renderArticleList() {
+  const articleGrid = document.querySelector('#article-grid');
+  if (!articleGrid) return;
+
+  const visibleArticles = getFilteredArticles();
+  if (!visibleArticles.length) {
+    articleGrid.innerHTML = '<div class="article-empty">No encontramos artículos con ese criterio.</div>';
+    return;
+  }
+
+  articleGrid.innerHTML = visibleArticles.map((article) => `
+    <article class="article-card" data-article-id="${article.id}">
+      <div class="article-cover article-cover--${article.coverClass}"><span>${article.category}</span></div>
+      <div class="article-card__body">
+        <p class="article-date">${article.date}</p>
+        <h2>${article.title}</h2>
+        <p>${article.excerpt}</p>
+        <div class="article-card__footer">
+          <a href="${article.url}">Leer artículo</a>
+          <a href="${article.file}" target="_blank" rel="noopener noreferrer">Descargar PDF</a>
+        </div>
+      </div>
+    </article>
+  `).join('');
+}
+
+function attachArticleHandlers() {
+  document.addEventListener('click', (event) => {
+    const filterButton = event.target.closest('[data-category]');
+    if (filterButton) {
+      articleState.category = filterButton.dataset.category;
+      renderFilters();
+      renderArticleList();
+      return;
+    }
+  });
+
+  const searchInput = document.querySelector('#article-search');
+  if (searchInput) {
+    searchInput.addEventListener('input', (event) => {
+      articleState.query = event.target.value;
+      renderArticleList();
+    });
+  }
+}
+
 function closeMenu() {
   sidebar.classList.remove('is-open');
   menuBackdrop.classList.remove('is-visible');
@@ -57,4 +145,7 @@ document.querySelector('#contact-form').addEventListener('submit', (event) => {
   event.target.reset();
 });
 
+renderFilters();
+renderArticleList();
+attachArticleHandlers();
 setRoute(window.location.hash.slice(1) || 'inicio');
