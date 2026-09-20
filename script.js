@@ -4,13 +4,13 @@ const sidebar = document.querySelector('#sidebar');
 const menuToggle = document.querySelector('.menu-toggle');
 const menuBackdrop = document.querySelector('.menu-backdrop');
 
-const ARTICLE_CATEGORIES = ['todos', 'Cosmovisión', 'Historia bíblica', 'Jesús histórico', 'Sufrimiento y mal'];
+const ARTICLE_CATEGORIES = ['todos', 'Ciencia y fe', 'Historia bíblica', 'Jesús histórico', 'Sufrimiento y mal'];
 
 const articleLibrary = [
   {
     id: 'creacion-del-universo',
     title: 'Creación del universo',
-    category: 'Cosmovisión',
+    category: 'Ciencia y fe',
     date: '15 de septiembre de 2026',
     coverClass: 'cosmovision',
     excerpt: 'Un recorrido para pensar el origen del universo desde la ciencia, la filosofía y la fe.',
