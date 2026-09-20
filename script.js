@@ -114,6 +114,11 @@ document.addEventListener('click', (event) => {
   if (!routeLink) return;
   event.preventDefault();
   const route = routeLink.dataset.route;
+  if (route === 'articulos' && routeLink.dataset.articleCategory) {
+    articleState.category = routeLink.dataset.articleCategory;
+    renderFilters();
+    renderArticleList();
+  }
   window.history.pushState({ route }, '', `#${route}`);
   setRoute(route);
 });
