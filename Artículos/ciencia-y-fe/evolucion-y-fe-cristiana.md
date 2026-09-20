@@ -5,145 +5,256 @@ tema: "Ciencia y fe"
 descripcion: "Creacionismo, evolución teísta y diseño inteligente: qué sostiene cada uno."
 fecha: "20 de septiembre de 2026"
 estado: publicado
-enfoque_imagen: ""
+enfoque_imagen: "center center"
 ---
-*Serie: Evidencias para un Diseñador — Parte 3*
+*Serie: Ciencia y fe*
 
 ## Un mismo Creador, distintas lecturas de su obra
 
 Categoría: Ciencia y fe
 
-En el artículo anterior nos quedamos en el punto de partida de la vida: el origen del primer código genético. Pero la historia no termina ahí. Después vienen miles de millones de años de fósiles, ramas, extinciones y linajes, y frente a esa historia los cristianos no piensan todos lo mismo. Hay creyentes que aman la Biblia, confiesan el mismo credo y oran al mismo Dios, y aun así sostienen posturas distintas sobre la edad de la Tierra, la evolución y la manera en que Dios obró. Muchos de ellos son científicos serios.
+### En 30 segundos
 
-Este artículo intenta tres cosas: exponer cada postura como la expondrían sus mejores defensores, decir en qué evidencia y en qué textos se apoyan, y señalar con honestidad qué dificultades enfrenta cada una. No pretende cerrar el tema. Pretende que sepas exactamente de qué se discute, porque buena parte de los malentendidos entre cristianos nace de discutir sin saber qué sostiene realmente el otro.
+- **Los cristianos se dividen en cuatro posturas serias:** creacionismo de Tierra joven, creacionismo de Tierra antigua, creación evolutiva y diseño inteligente.
+- **Las cuatro afirman lo esencial:** Dios es el Creador y el ser humano es su imagen. Discrepan en cómo leer Génesis 1 y qué papel darle a la evolución.
+- **La ciencia académica sostiene una Tierra de 4.540 millones de años y antepasados comunes.** Esa es la posición mayoritaria de la comunidad científica.
+- **Se mezclan tres preguntas distintas:** qué enseña Génesis, qué dice la evidencia y si la naturaleza es todo lo que hay. Separarlas aclara la discusión.
+- **Ninguna postura es "el credo".** En Estados Unidos, el 37% cree en una creación reciente, el 34% en una evolución guiada por Dios y el 24% en una evolución sin Dios (Gallup, 2024).
 
-Una aclaración de entrada, para no confundir. En la comunidad científica hay un consenso muy amplio en que los seres vivos actuales descienden de antepasados comunes a lo largo de miles de millones de años, y ese consenso incluye a científicos cristianos y no cristianos. Que existan cristianos que lo discuten es un hecho, y los vamos a escuchar con respeto. Pero conviene no ocultar cuál es la posición mayoritaria de la ciencia, porque la discusión entre creyentes es en parte científica, en parte bíblica y en parte filosófica, y hay que saber cuál es cuál.
+En 2024, Gallup les preguntó a adultos de Estados Unidos cómo surgió la humanidad, y las respuestas se repartieron en tres grandes grupos.
 
-### Lo que todos comparten
+> **37% · 34% · 24%.** Así se reparten los adultos de Estados Unidos entre creación reciente, evolución guiada por Dios y evolución sin Dios (Gallup, 2024).
 
-Antes de las diferencias, lo que une. Las cuatro posturas que vamos a ver afirman lo siguiente:
+Aun entre quienes creen en Dios, entonces, no hay una sola respuesta. Este artículo expone cada postura como la explicarían sus mejores defensores, con la evidencia que citan y las dificultades que enfrentan.
 
-- **Dios es el Creador de todo lo que existe.** El credo que los cristianos rezan desde hace siglos lo dice sin explicar el cómo: "Creador del cielo y de la tierra".
+Una aclaración de entrada: la posición mayoritaria de la comunidad científica es que los seres vivos descienden de antepasados comunes a lo largo de miles de millones de años. Que haya cristianos que lo discuten es un hecho, y los vamos a escuchar con respeto. Pero no vamos a ocultar cuál es esa posición.
+
+### ¿Qué tienen en común las cuatro posturas?
+
+**Casi todo lo esencial.** Las cuatro afirman lo siguiente:
+
+- **Dios es el Creador de todo lo que existe.** El credo lo dice sin explicar el cómo: "Creador del cielo y de la tierra".
 - **La creación es buena y tiene un propósito.** No es un accidente ciego.
 - **El ser humano es imagen de Dios** y tiene una dignidad única.
-- **La filosofía materialista es falsa.** No es cierto que solo exista la materia ni que detrás de todo no haya propósito.
+- **El materialismo es falso.** No es cierto que solo exista la materia ni que todo carezca de propósito.
 
-Imaginá una casa. Un arquitecto puede levantarla con sus propias manos, ladrillo por ladrillo, en una temporada. O puede diseñar un plano que obreros ejecuten durante años. En los dos casos hay un arquitecto y una casa con propósito. Lo que se discute entre cristianos es, en gran medida, cuál de esas historias corresponde a la creación, y qué dicen sobre eso la Biblia y la evidencia. No se discute si hubo Arquitecto.
+Imaginá una casa. Un arquitecto puede levantarla con sus manos, ladrillo por ladrillo, o diseñar un plano que obreros ejecutan durante años. En ambos casos hay Arquitecto. El desacuerdo es sobre el método de construcción y sobre qué dicen la Biblia y la evidencia al respecto.
 
-### Primera postura: creacionismo de Tierra joven
+### ¿Cuántos años tienen la Tierra y el universo?
 
-Lee Génesis 1 como un relato histórico de seis días de 24 horas, ocurridos hace entre 6.000 y 10.000 años. Sostiene que el universo entero es joven, que Adán y Eva fueron creados directamente, que el diluvio de Noé fue mundial y que buena parte de las capas geológicas se explican por esa catástrofe. Rechaza que unas especies deriven de otras más allá de los "tipos" creados al principio, y afirma que la muerte entró al mundo por el pecado de Adán.
+**Según la ciencia académica, la Tierra tiene unos 4.540 millones de años y el universo, unos 13.800 millones.** Esa cifra la aceptan el creacionismo de Tierra antigua y la creación evolutiva. El diseño inteligente no toma posición, y el creacionismo de Tierra joven propone menos de 10.000 años.
 
-Su motivo principal es bíblico. Cree que el texto pide ser leído así, y que aceptar millones de años de muerte animal antes de Adán choca con lo que Pablo enseña sobre el pecado y la muerte en Romanos 5. Su obra fundacional en el mundo evangélico moderno es *The Genesis Flood* (1961), de John Whitcomb y Henry Morris, y sus organizaciones más conocidas son el Institute for Creation Research y Answers in Genesis, dirigida por Ken Ham, que abrió su Museo de la Creación en 2007.
+En 1956, el geoquímico Clair Patterson midió isótopos de plomo en fragmentos del meteorito Canyon Diablo y obtuvo 4.550 millones de años, con un margen de 70 millones. Ese valor sigue vigente en los manuales.
 
-Entre sus científicos se destaca **Kurt Wise**. Se doctoró en paleontología en Harvard, en 1989, bajo la dirección de Stephen Jay Gould, uno de los opositores más conocidos del creacionismo, a quien, según el historiador Ronald Numbers, Gould siempre trató con respeto. Wise tiene una franqueza poco común: escribió que, aunque ve razones científicas para una Tierra joven, es creacionista de Tierra joven porque así entiende la Escritura, y que si toda la evidencia del universo se volviera en contra, seguiría siéndolo por lo que indica la Palabra de Dios. También reconoció que una lectura directa de la Biblia sugiere miles de años, mientras que un examen directo de la creación sugiere millones o miles de millones, y que reconciliar ambas cosas es uno de los mayores desafíos de la investigación creacionista.
+> **4.540 millones de años.** Edad de la Tierra: el resultado de Patterson (1956) se mantiene casi setenta años después.
 
-Ese reconocimiento resume la situación. Los defensores de esta postura ven esas dificultades como problemas abiertos de investigación, como los que tiene cualquier modelo científico. Sus críticos, entre ellos muchos cristianos, las consideran decisivas: la geología, la astronomía y la datación radiométrica, con métodos independientes que coinciden entre sí (uranio-plomo, potasio-argón, rubidio-estroncio), apuntan a una Tierra de unos 4.540 millones de años. Es una postura numerosa entre el público, aunque minoritaria en la comunidad científica: según una encuesta de Gallup de 2024, el 37% de los adultos de Estados Unidos acepta que Dios creó a los seres humanos en su forma actual en los últimos 10.000 años.
+Otros métodos radiométricos independientes (uranio-plomo, potasio-argón, rubidio-estroncio) apuntan a edades del mismo orden. La edad del universo sale de la radiación de fondo del Big Bang, que vimos en *Creación del universo*.
 
-### Segunda postura: creacionismo de Tierra antigua
+### ¿Qué sostiene el creacionismo de Tierra joven?
 
-Acepta lo que dice la ciencia sobre la edad del universo (unos 13.800 millones de años) y de la Tierra (unos 4.540 millones), pero rechaza que la evolución explique la historia de la vida. Su versión más conocida es el creacionismo progresivo o "día-era": los "días" de Génesis 1 serían períodos largos, y Dios habría creado por etapas, interviniendo de manera directa en momentos clave, como la aparición de nuevos grupos de organismos y de los seres humanos.
+**Que Génesis 1 relata seis días de 24 horas ocurridos hace entre 6.000 y 10.000 años.** También sostiene que el diluvio fue mundial y que Dios creó directamente a Adán y a Eva. Rechaza que unas especies deriven de otras más allá de los "tipos" originales.
 
-Su voz más conocida es el astrofísico **Hugh Ross**, doctor en astronomía por la Universidad de Toronto y con cinco años de investigación posdoctoral en Caltech, que fundó en 1986 la organización Reasons to Believe. Desde 2022 la preside el bioquímico **Fazale Rana**, doctor en química con énfasis en bioquímica por la Universidad de Ohio. Presentan su modelo como "contrastable": creen que la creación es una idea que puede ponerse a prueba con la evidencia científica. Ross es además un defensor del ajuste fino del universo que vimos en el primer artículo de esta serie.
+Su motivo principal es bíblico. Cree que el texto pide esa lectura, y que la muerte animal anterior a Adán choca con lo que Pablo enseña en Romanos 5.
 
-Esta postura permite aceptar la cosmología moderna sin renunciar a la acción directa de Dios en la historia, y tiene un antecedente respetable. Charles Hodge, el gran teólogo de Princeton del siglo XIX y un defensor firme de la ortodoxia, no era creacionista de Tierra joven: aceptaba la antigüedad del planeta y la lectura día-era de Génesis.
+**Quiénes lo sostienen**
 
-Enfrenta dificultades desde los dos lados. Desde la ciencia se le objeta que postula intervenciones directas justo allí donde la biología evolutiva ve continuidad, como en el caso del cromosoma 2 humano que veremos enseguida. Desde la lectura bíblica, el propio Kurt Wise señala que aun con días largos el orden de Génesis 1 no coincide con el de la ciencia: en el texto, la Tierra y las plantas aparecen antes que el sol. Y desde el creacionismo de Tierra joven se le acusa de ceder demasiado ante la ciencia académica, mientras que la ciencia académica rechaza sus creaciones sucesivas. Una postura criticada por ambos flancos puede estar en el punto justo o en ninguno, y eso hay que evaluarlo caso por caso.
+Su obra fundacional es *The Genesis Flood* (1961). La escribieron el ingeniero Henry Morris, doctor en ingeniería hidráulica y jefe de ingeniería civil en Virginia Tech, y el teólogo John Whitcomb, especialista en Antiguo Testamento. El paleontólogo Stephen Jay Gould, crítico del movimiento, la llamó su documento fundacional.
 
-### Tercera postura: creación evolutiva (evolución teísta)
+Morris fundó el Institute for Creation Research en 1970. Ken Ham creó Answers in Genesis en 1994 y abrió el Museo de la Creación en 2007.
 
-Sostiene que Dios creó, y sigue sosteniendo su creación, a través de procesos naturales, incluida la evolución. Génesis, dicen sus defensores, enseña quién creó y por qué, no cómo ni cuándo en términos científicos. El biólogo **Theodosius Dobzhansky**, uno de los fundadores de la biología evolutiva moderna y cristiano ortodoxo ruso (el mismo que citamos en el artículo anterior), lo expresó en su famoso ensayo de 1973 con una frase que rompía esquemas: "Soy creacionista y evolucionista". Consideraba un error tomar la Escritura por un manual de astronomía, geología o biología.
+El científico más citado es **Kurt Wise**: doctor en paleontología por Harvard (1989), dirigido por Gould, quien siempre lo trató con respeto, según el historiador Ronald Numbers.
 
-Hoy la voz más conocida es la de **Francis Collins**, el genetista que dirigió el Proyecto Genoma Humano. En *The Language of God* (2006) defendió la evolución como el modo en que Dios creó y acuñó la palabra "BioLogos", que para él expresa la creencia de que Dios es la fuente de toda vida y de que la vida expresa su voluntad. En 2007 fundó la organización BioLogos. Collins rechaza tanto el creacionismo de Tierra joven como el diseño inteligente. La expresión "creación evolutiva", popularizada por el científico y teólogo Denis Lamoureux, es la que hoy muchos prefieren, porque pone el acento en la creación y no en la evolución. Los líderes de BioLogos aclaran que afirman sin reservas que el universo está diseñado.
+> **Kurt Wise, doctor por Harvard.** Sostiene la Tierra joven por lo que entiende de la Escritura, y dice que lo seguiría haciendo aunque toda la evidencia se volviera en contra.
 
-Otros nombres:
+Wise también admitió que una lectura directa de la Biblia sugiere miles de años, y que un examen directo de la creación sugiere millones o miles de millones. Reconciliar ambas cosas, dice, es uno de los mayores desafíos de la investigación creacionista.
 
-- **Kenneth Miller**, biólogo celular de la Universidad de Brown, católico practicante y autor de *Finding Darwin's God*. Sostiene que la evolución no contradice la fe, aunque tampoco puede usarse como argumento a favor del ateísmo.
-- **Denis Alexander**, bioquímico, ex director del Instituto Faraday de Ciencia y Religión de Cambridge, autor de *Creation or Evolution: Do We Have to Choose?* (2008).
-- **Simon Conway Morris**, paleontólogo de Cambridge, que en *Life's Solution* (2003) reúne decenas de casos de evolución convergente: linajes distintos que llegan de manera independiente a las mismas soluciones, como los ojos o el vuelo. Para él, eso sugiere que la evolución no es una lotería sin rumbo, y ha reflexionado sobre lo que eso implica para el teísmo.
+Sus críticos consideran decisivas esas dificultades. Sus defensores las ven como problemas abiertos de investigación. Kenneth Miller, biólogo de Brown, dedica un capítulo de *Finding Darwin's God* a explicar por qué los métodos de datación independientes coinciden.
 
-Esta postura no es una novedad. Asa Gray, botánico de Harvard, cristiano evangélico y el principal promotor de las obras de Darwin en Estados Unidos, la sostuvo desde 1860. James McCosh, presidente de Princeton, pensaba que los cristianos debían adaptarse a la teoría. El propio Darwin escribió en 1879 que le parecía absurdo dudar de que alguien pudiera ser a la vez teísta ferviente y evolucionista. Charles Hodge publicó en 1874 *What Is Darwinism?* y concluyó con una frase famosa: "Es ateísmo". Pero conviene leerla bien: lo que Hodge condenaba era la negación de todo propósito en la naturaleza, no la evolución como tal, y aclaró que Gray era evolucionista pero no darwinista en ese sentido. Su sucesor B. B. Warfield escribió en 1888 que no hay antagonismo necesario entre el cristianismo y la evolución, siempre que no se adopte una forma tan extrema que no deje a Dios obrar libremente, por ejemplo en la creación del alma.
+### ¿Qué sostiene el creacionismo de Tierra antigua?
 
-La Iglesia católica llegó a una posición parecida. En 1950, la encíclica *Humani Generis* de Pío XII permitió investigar y discutir la evolución del cuerpo humano a partir de materia viva preexistente, con la condición de sostener que las almas son creadas directamente por Dios, y pidió cautela con la idea de que la humanidad no descienda de una sola pareja. En 1996, Juan Pablo II dijo ante la Academia Pontificia de Ciencias que los nuevos conocimientos llevan a reconocer que la teoría de la evolución es "más que una hipótesis", y recordó que las teorías que hacen del espíritu un mero producto de la materia son incompatibles con la verdad sobre el hombre. Según Gallup, el 34% de los adultos estadounidenses cree que los humanos evolucionaron con la guía de Dios, y es la postura con mayor presencia entre los católicos y los graduados universitarios.
+**Que el universo y la Tierra son antiguos, pero que la vida no surgió solo por evolución.** Su versión más conocida, el creacionismo progresivo o "día-era", entiende los días de Génesis 1 como épocas largas. Dios habría creado por etapas, con intervenciones directas en momentos clave, como la aparición de nuevos grupos de organismos y de los seres humanos.
 
-**Un ejemplo de evidencia.** Los grandes simios tienen 24 pares de cromosomas y los humanos 23. En 1991, el equipo de Jacob IJdo encontró en el cromosoma 2 humano una secuencia repetida característica de los extremos de los cromosomas, los telómeros, en el medio, donde no se esperaría ninguna, y se sabe que ese cromosoma tiene además los restos de un segundo centrómero inactivo. Para la biología evolutiva es la huella de que dos cromosomas de un antepasado común se fusionaron. Fazale Rana y varios investigadores creacionistas de Tierra joven han publicado críticas a cómo se usa este dato. Es un buen ejemplo de algo importante: muchas veces la discusión entre cristianos no es sobre los datos, sino sobre cómo interpretarlos.
+**Quiénes lo sostienen**
 
-Las dificultades de esta postura son teológicas. Una es la muerte y el sufrimiento durante millones de años antes de cualquier pecado humano. Otra es la pareja de Adán y Eva: hay quienes la entienden como una figura, otros como representantes de una población, y otros como personas históricas. Según los genetistas que estudian la diversidad humana actual, como Dennis Venema, la población humana nunca habría bajado de unos 10.000 individuos. El biólogo computacional y cristiano **Joshua Swamidass** propuso en *The Genealogical Adam and Eve* (2019) que Adán y Eva podrían haber sido creados de manera directa junto a poblaciones que ya existían, y ser los antepasados genealógicos de todos los humanos actuales sin ser su única fuente genética. Las reacciones fueron dispares: hubo quien lo llamó una propuesta provocativa pero poco convincente y quien lo valoró como un aporte importante aun discrepando en los datos. Y queda una tercera pregunta, filosófica: cómo entender la guía de Dios en un proceso que incluye azar. Conway Morris responde con la convergencia; otros, con la idea de que la providencia incluye la contingencia.
+**Hugh Ross** es astrofísico: doctor en astronomía por la Universidad de Toronto, con cinco años de investigación posdoctoral en Caltech. Fundó Reasons to Believe en 1986. **Fazale Rana**, doctor en química con énfasis en bioquímica (Universidad de Ohio), la preside desde 2022.
 
-### Cuarta postura: diseño inteligente
+Presentan su modelo como contrastable: creen que la creación es una idea que puede ponerse a prueba con la evidencia científica. Ross también defiende el ajuste fino del universo que vimos en *Creación del universo*.
 
-El diseño inteligente es una tesis más acotada que las otras tres. No trata de cuántos años tiene la Tierra ni de cómo leer Génesis. Afirma que ciertos rasgos del universo y de los seres vivos muestran señales de diseño que pueden detectarse científicamente, y que los procesos naturales sin dirección no alcanzan para explicarlos.
+Tiene un antecedente respetable. Charles Hodge, el gran teólogo de Princeton del siglo XIX y defensor de la ortodoxia, no era creacionista de Tierra joven: aceptaba la antigüedad de la Tierra y la lectura día-era.
 
-Sus figuras principales son el bioquímico **Michael Behe**, de la Universidad de Lehigh, que en *Darwin's Black Box* (1996) planteó la "complejidad irreductible": un sistema de varias partes ajustadas entre sí donde quitar una hace que todo deje de funcionar, y que por eso, según él, no podría formarse por pasos graduales a partir de un precursor que funcionara con menos piezas; el filósofo de la ciencia **Stephen Meyer**, cuyo argumento sobre la información del ADN vimos en el artículo anterior y que en *Darwin's Doubt* (2013) discute la explosión cámbrica; y el matemático William Dembski.
+**Sus dificultades**
 
-Dos rasgos suelen pasarse por alto. El primero: el diseño inteligente no exige rechazar la ascendencia común ni sostener una Tierra joven. Behe mismo acepta que los organismos comparten antepasados; lo que discute es que la selección natural sobre mutaciones al azar alcance para explicar ciertos sistemas. El segundo: no identifica al diseñador. Apunta a una inteligencia, no al Dios de la Biblia, y por eso en sí mismo no requiere una fe determinada.
+Desde la ciencia se le objeta que postula intervenciones directas justo donde la biología evolutiva ve continuidad. Desde la Biblia, el propio Kurt Wise señala que aun con días largos el orden de Génesis 1 no coincide con el de la ciencia: en el texto, las plantas y la Tierra aparecen antes que el sol.
 
-Su recepción en la ciencia ha sido muy crítica. En 2005, en el caso *Kitzmiller contra Dover*, el juez federal John E. Jones III resolvió que el diseño inteligente no es ciencia sino una propuesta esencialmente religiosa, y que la afirmación de Behe sobre la complejidad irreductible había sido refutada en trabajos científicos revisados por pares y rechazada por la comunidad científica. Behe testificó en ese juicio y rechaza la sentencia: sostiene que el tribunal adoptó una definición distorsionada de su argumento. Kenneth Miller, que fue el primer testigo del lado contrario, dijo que los supuestos argumentos a favor del diseño eran en realidad argumentos contra la evolución. Una sentencia judicial no zanja una cuestión científica, y ese caso trató sobre la enseñanza en escuelas públicas de Estados Unidos, pero refleja cómo recibió la comunidad científica mayoritaria estas ideas. También lo rechazan como programa científico cristianos como Collins y Miller.
+Y es criticada desde ambos flancos. Answers in Genesis la acusa de ceder demasiado ante la ciencia académica, mientras que la ciencia académica rechaza sus creaciones sucesivas.
 
-### Cómo se comparan
+### ¿Qué sostiene la creación evolutiva?
 
-Las cuatro posturas, en cinco preguntas:
+**Que Dios crea, y sostiene su creación, a través de procesos naturales, incluida la evolución.** Génesis, dicen sus defensores, enseña quién creó y por qué, no cómo ni cuándo en términos científicos. También se la llama evolución teísta.
+
+**Quiénes lo sostienen**
+
+**Theodosius Dobzhansky**, uno de los fundadores de la biología evolutiva moderna y cristiano ortodoxo ruso, escribió en 1973: "Soy creacionista y evolucionista". Consideraba un error tomar la Escritura por un manual de biología.
+
+**Francis Collins**, genetista y exdirector del Proyecto Genoma Humano y de los Institutos Nacionales de Salud (2009-2021), publicó *The Language of God* (2006) y fundó BioLogos en 2007. Rechaza el creacionismo de Tierra joven y el diseño inteligente.
+
+Otros nombres: **Kenneth Miller**, biólogo celular de Brown y católico practicante; **Denis Alexander**, bioquímico y ex director del Instituto Faraday de Cambridge; **Simon Conway Morris**, paleontólogo de Cambridge y miembro de la Royal Society, que estudia por qué la evolución llega repetidamente a las mismas soluciones; y **Denis Lamoureux**, científico y teólogo que popularizó el nombre "creación evolutiva".
+
+**Un antecedente histórico**
+
+No es una postura nueva. Asa Gray, botánico de Harvard y evangélico, fue el principal defensor de Darwin en Estados Unidos. Darwin escribió en 1879 que le parecía absurdo dudar de que alguien pudiera ser a la vez teísta ferviente y evolucionista.
+
+B. B. Warfield, también teólogo de Princeton, escribió en 1888 que no hay antagonismo necesario entre el cristianismo y la evolución, siempre que no se adopte una forma tan extrema que no deje a Dios obrar libremente, por ejemplo en la creación del alma.
+
+**La postura de la Iglesia católica**
+
+En 1950, la encíclica *Humani Generis* de Pío XII permitió investigar la evolución del cuerpo humano, con la condición de sostener que las almas son creadas directamente por Dios. En 1996, Juan Pablo II dijo ante la Academia Pontificia de Ciencias que la teoría de la evolución es "más que una hipótesis".
+
+> **1996: "más que una hipótesis".** Juan Pablo II sobre la evolución, ante la Academia Pontificia de Ciencias. Recordó que el alma es creada directamente por Dios.
+
+**Los datos que citan**
+
+Los grandes simios tienen 24 pares de cromosomas y los humanos, 23. En 1991, el equipo de Jacob IJdo encontró en el cromosoma 2 humano secuencias típicas de los extremos de los cromosomas, en el medio, donde no se esperaría ninguna, y los restos de un segundo centrómero inactivo. Para la biología evolutiva, es la huella de la fusión de dos cromosomas de un antepasado común.
+
+> **24 pares contra 23.** El cromosoma 2 humano conserva la huella de la fusión de dos cromosomas de un antepasado común (IJdo, 1991).
+
+El consorcio que secuenció el genoma del chimpancé (*Nature*, 2005) halló una diferencia del 1,2% en las letras comparables una a una. Sumando inserciones y borrados, sube a cerca del 4%. Según cómo se cuente, los genomas coinciden entre un 96% y un 99%.
+
+> **De 1,2% a 4%.** Diferencia entre los genomas humano y de chimpancé, según se cuenten solo cambios de una letra o también inserciones y borrados (*Nature*, 2005).
+
+Fazale Rana y varios investigadores creacionistas de Tierra joven cuestionan cómo se interpreta el cromosoma 2. La discusión, una vez más, no es sobre los datos, sino sobre su interpretación.
+
+**Sus dificultades**
+
+Son teológicas. Una es la muerte y el sufrimiento durante millones de años antes de cualquier pecado humano. Otra es Adán y Eva: hay quienes los entienden como una figura, otros como representantes de una población y otros como personas históricas.
+
+Según los genetistas que estudian la diversidad humana actual, como Dennis Venema, la población humana nunca habría bajado de unos 10.000 individuos.
+
+El biólogo computacional y cristiano Joshua Swamidass propuso en *The Genealogical Adam and Eve* (2019) que Adán y Eva pudieron ser creados junto a poblaciones que ya existían, y ser los antepasados genealógicos de todos los humanos actuales. Las reacciones fueron dispares: algunos lo llamaron provocativo pero poco convincente, y otros lo valoraron como un aporte importante.
+
+La tercera dificultad es cómo entender la guía de Dios en un proceso que incluye azar. Conway Morris responde con la convergencia; otros, con la idea de que la providencia incluye la contingencia.
+
+### ¿Qué sostiene el diseño inteligente?
+
+**Que ciertos rasgos del universo y de los seres vivos muestran señales de diseño que pueden detectarse científicamente.** Afirma que los procesos naturales sin dirección no alcanzan para explicarlos. Es una tesis más acotada: no trata de la edad de la Tierra ni de cómo leer Génesis.
+
+**Quiénes lo sostienen**
+
+**Michael Behe**, bioquímico de la Universidad de Lehigh e investigador del Discovery Institute, planteó en *Darwin's Black Box* (1996) la "complejidad irreductible": un sistema de varias partes ajustadas entre sí donde quitar una hace que todo deje de funcionar. Según él, un sistema así no puede formarse por pasos graduales a partir de un precursor más simple.
+
+Sus ejemplos: el flagelo bacteriano, el sistema inmune y la coagulación de la sangre.
+
+**Stephen Meyer**, filósofo de la ciencia con doctorado en Cambridge y director del Center for Science and Culture del Discovery Institute, publicó *Signature in the Cell* (2009), que vimos en *El origen de la vida*. 
+
+En *Darwin's Doubt* (2013) sostiene que la explosión cámbrica, hace unos 530 millones de años, se explica mejor por diseño que por evolución sin dirección. Sus críticos responden que fue una radiación de gusanos simples en varias etapas.
+
+**Lo que suele pasarse por alto**
+
+El diseño inteligente no exige rechazar la ascendencia común ni una Tierra antigua. Behe mismo acepta que los organismos comparten antepasados. Lo que discute es que la selección natural sobre mutaciones al azar alcance para explicar ciertos sistemas. Y no identifica al diseñador: apunta a una inteligencia, no al Dios de la Biblia.
+
+**Su recepción científica y judicial**
+
+El 20 de diciembre de 2005, en el caso *Kitzmiller contra Dover*, el juez federal John E. Jones III, un republicano designado por George W. Bush, resolvió en una sentencia de 139 páginas que el diseño inteligente no es ciencia, y que no puede separarse de sus antecedentes creacionistas y, por lo tanto, religiosos.
+
+> **139 páginas.** Es la sentencia de Dover (2005), en la que un juez federal designado por George W. Bush concluyó que el diseño inteligente no es ciencia.
+
+La sentencia agregó algo que vale la pena notar: calificó de "falsa" la presuposición de que la teoría de la evolución es contraria a la creencia en un ser supremo.
+
+Y según el fallo, a Behe le mostraron 58 artículos revisados por pares, 9 libros y varios capítulos de manuales sobre la evolución del sistema inmune, y respondió que no era suficiente.
+
+> **58 artículos, 9 libros y capítulos de manuales.** Es lo que el fallo dice que le mostraron a Behe sobre la evolución del sistema inmune. Behe respondió que no alcanzaba.
+
+Behe rechaza la sentencia: sostiene que el tribunal adoptó una definición distorsionada de su argumento. Miller, primer testigo de la parte contraria, dijo que los supuestos argumentos a favor del diseño eran en realidad argumentos contra la evolución. Collins también rechaza el diseño inteligente como programa científico.
+
+Una sentencia judicial no zanja una cuestión científica, y ese caso trató sobre la enseñanza en escuelas públicas de Estados Unidos. Pero refleja cómo recibió esas ideas la comunidad científica mayoritaria.
+
+### ¿En qué se diferencian las cuatro posturas?
 
 - **¿Cuántos años tiene la Tierra?** Tierra joven: menos de 10.000. Tierra antigua y creación evolutiva: unos 4.540 millones. Diseño inteligente: no forma parte de su tesis.
 - **¿Unas especies descienden de otras?** Tierra joven: no, más allá de los "tipos" originales. Tierra antigua: no, con creaciones sucesivas. Creación evolutiva: sí. Diseño inteligente: la tesis no lo exige, y Behe lo acepta.
 - **¿Cómo obra Dios?** Tierra joven: creación directa en seis días. Tierra antigua: intervenciones directas sucesivas. Creación evolutiva: a través de procesos naturales que Él sostiene. Diseño inteligente: hay señales de una inteligencia en ciertos rasgos, sin decir quién ni cómo.
-- **¿Cómo se lee Génesis 1?** Tierra joven: como historia literal. Tierra antigua: los días son épocas. Creación evolutiva: como enseñanza teológica en el lenguaje de su tiempo. Lamoureux dice que el texto usa la ciencia y la historia de su época como vehículo de verdades espirituales, y el especialista John Walton propone leerlo como la puesta en funcionamiento del cosmos como un templo, más que como el relato de su origen material. Diseño inteligente: no toma posición.
+- **¿Cómo se lee Génesis 1?** Tierra joven: como historia literal. Tierra antigua: los días son épocas. Creación evolutiva: como enseñanza teológica en el lenguaje de su tiempo. Diseño inteligente: no toma posición.
 - **¿Adán y Eva?** Tierra joven y Tierra antigua: una pareja histórica creada directamente. Creación evolutiva: figurativos, representativos o históricos junto a la evolución. Diseño inteligente: no toma posición.
 
-### Tres preguntas que conviene separar
+### ¿Qué preguntas conviene separar?
 
-Buena parte de la confusión se aclara distinguiendo tres preguntas que suelen mezclarse.
+**La pregunta bíblica: ¿qué quiere enseñar Génesis?** Es una cuestión de interpretación, de género literario y de contexto. Agustín, hacia el año 400, ya advertía que es "vergonzoso y peligroso" que un no creyente escuche a un cristiano decir disparates sobre la naturaleza y presentarlos como enseñanza de la Biblia.
 
-**La pregunta bíblica: ¿qué quiere enseñar Génesis?** Es una cuestión de interpretación, de género literario y de contexto. Agustín, hacia el año 400, ya advertía en su comentario literal de Génesis que es "vergonzoso y peligroso" que un no creyente escuche a un cristiano decir disparates sobre la naturaleza, cosas que aquel conoce por razón y experiencia, y presentarlos como enseñanza de la Biblia. Su preocupación no era defender una teoría científica, sino que se desacredite el evangelio. Notá que el consejo vale para todos: para quien afirma con demasiada seguridad algo que la evidencia contradice, y también para quien concede a la ciencia más de lo que ha demostrado.
+Su preocupación era que se desacredite el evangelio.
 
-**La pregunta científica: ¿qué dice la evidencia?** Aquí importa la honestidad. Se puede estar en desacuerdo con la interpretación mayoritaria, pero hay que conocerla y representarla bien. Y hay que distinguir lo que la ciencia académica considera bien establecido (la antigüedad de la Tierra, la ascendencia común de los seres vivos) de lo que sigue abierto (el origen de la vida, los mecanismos evolutivos y su peso relativo).
+Dos lecturas recientes de Génesis 1 evitan el conflicto con la ciencia. Lamoureux sostiene que el texto usa la ciencia y la historia de su época como vehículo de verdades espirituales. John Walton, doctor por Hebrew Union College y profesor de Antiguo Testamento en Wheaton College, propone que describe la puesta en funcionamiento del cosmos como un templo, más que su origen material.
 
-**La pregunta filosófica: ¿la naturaleza es todo lo que hay?** Una cosa es la evolución como teoría biológica, que describe cómo cambian los organismos, y otra el "evolucionismo" como filosofía, que agrega que por lo tanto no hay propósito ni Creador. Ese agregado no es un resultado científico, es una tesis filosófica. La condena de Hodge apuntaba a eso, y también la advertencia de Juan Pablo II. En este punto los cristianos de las cuatro posturas están más unidos que en ningún otro.
+**La pregunta científica: ¿qué dice la evidencia?** Se puede discrepar de la interpretación mayoritaria, pero hay que conocerla y representarla bien. Y hay que distinguir lo que la ciencia académica considera establecido (la antigüedad de la Tierra, la ascendencia común) de lo que sigue abierto (el origen de la vida, el peso de cada mecanismo evolutivo).
 
-### Lo que cada postura tiene que resolver
+**La pregunta filosófica: ¿la naturaleza es todo lo que hay?** Una cosa es la evolución como teoría biológica, y otra el "evolucionismo" como filosofía, que agrega que por lo tanto no hay propósito ni Creador. Ese agregado no es un resultado científico.
 
-Todas tienen costos, y conviene decirlo sin rodeos.
+Es lo que condenó Hodge en 1874 con su famosa frase "Es ateísmo": lo que rechazaba era la negación de todo propósito en la naturaleza, no la evolución como tal. Y Juan Pablo II advirtió contra las teorías que hacen del espíritu un producto de la materia.
 
-- **Tierra joven.** Debe explicar por qué tantas líneas independientes de evidencia (dataciones, distancias astronómicas, registro fósil) coinciden en edades enormes. Algunos recurren a la "apariencia de edad", una salida que muchos creyentes rechazan porque parecería que Dios dejó evidencia engañosa.
-- **Tierra antigua.** Debe explicar el orden de Génesis 1 frente a las épocas geológicas, y por qué las intervenciones directas caen justo donde la biología evolutiva ve continuidad.
-- **Creación evolutiva.** Debe responder por la muerte y el sufrimiento antes del pecado, por Adán y Eva, y por el modo en que Dios guía un proceso con azar.
-- **Diseño inteligente.** Debe mostrar que sus afirmaciones pueden ponerse a prueba y refutarse, y responder a los estudios que explican con precursores los sistemas que Behe consideraba irreductibles.
+### ¿Qué admiten los propios defensores?
 
-### Cómo pensarlo con honestidad
+- **Wise** reconoce que la Escritura sugiere miles de años y la creación millones, y que reconciliarlo es un desafío.
+- **Hodge**, defensor firme de la ortodoxia, aceptaba la Tierra antigua.
+- **Behe**, figura del diseño inteligente, acepta la ascendencia común.
+- **Collins y Miller**, evolucionistas cristianos, rechazan el diseño inteligente como programa científico, aunque afirman que la creación tiene sentido y propósito.
+- **La sentencia de Dover**, dictada por un juez y no por un teólogo, calificó de falsa la presuposición de que la evolución es incompatible con la fe en un ser supremo.
 
-Primero, no confundas una tesis con las personas que la sostienen. Cada una de las cuatro posturas incluye a cristianos serios y a científicos competentes. Kurt Wise sostuvo su creacionismo de Tierra joven mientras estudiaba bajo la dirección de Gould, y Gould lo trató con respeto. Ese es un buen modelo de cómo discutir.
+**Lo que cada postura tiene que resolver**
 
-Segundo, fijate cuánto le cuesta a cada uno cambiar de idea. Wise dice con franqueza que su punto de partida es la Escritura tal como la entiende. Los evolucionistas teístas dicen que su punto de partida es la evidencia y una lectura teológica de Génesis. Nadie parte de cero, y saber desde dónde habla cada uno ayuda a entenderlo.
+- **Tierra joven:** explicar por qué tantas líneas independientes de evidencia (dataciones, distancias astronómicas, registro fósil) coinciden en edades enormes, sin recurrir a la "apariencia de edad", una salida que muchos creyentes rechazan porque parecería que Dios dejó evidencia engañosa.
+- **Tierra antigua:** explicar el orden de Génesis 1 frente a las épocas geológicas, y por qué las intervenciones caen justo donde la biología ve continuidad.
+- **Creación evolutiva:** responder por la muerte antes del pecado, por Adán y Eva y por el modo en que Dios guía un proceso con azar.
+- **Diseño inteligente:** mostrar que sus afirmaciones pueden ponerse a prueba y refutarse, y responder a los estudios que explican con precursores los sistemas que Behe consideraba irreductibles.
 
-Tercero, no uses un dato suelto como si zanjara todo. Ni el cromosoma 2, ni el flagelo bacteriano, ni una capa de fósiles deciden por sí solos la cuestión. Cada uno se inserta en un cuadro más grande.
+### Objeciones frecuentes
 
-Y cuarto, recordá que los argumentos de las dos primeras partes de esta serie (un universo con comienzo, constantes calibradas, un código genético que el azar no explica) no dependen lógicamente de la postura que adoptes sobre la historia posterior de la vida. Hablan del origen del universo y del primer sistema vivo, no de lo que vino después.
+Estas son las objeciones más serias, con una respuesta breve.
 
-### La conclusión
+- **"Si la evolución es cierta, la Biblia se equivoca."** Solo si se lee Génesis 1 como un informe científico. Agustín ya advertía contra eso en el siglo V, y la Iglesia católica y muchos protestantes conviven con la evolución. Los creacionistas de Tierra joven sostienen que la lectura literal es la única fiel. Es un desacuerdo bíblico, no un dato.
+- **"Evolución es ateísmo."** Es la frase de Hodge, pero él condenaba la negación del propósito, no la biología. Miller lo resume: la evolución no sirve como argumento a favor del ateísmo, aunque tampoco lo hace la fe contra la evolución.
+- **"La muerte antes de Adán contradice Romanos 5."** Los creacionistas de Tierra joven así lo entienden. Los de Tierra antigua y la creación evolutiva responden que Pablo habla de la muerte de los seres humanos, y que la muerte animal ya existía. Es una diferencia de interpretación con consecuencias teológicas.
+- **"Sin un Adán y una Eva históricos se cae el evangelio."** Es la objeción más seria para la creación evolutiva. Sus defensores responden con varios modelos: uno figurativo, uno representativo y el de Swamidass, que conserva una pareja histórica junto a la evolución. Ninguno es unánime.
+- **"El diseño inteligente es creacionismo disfrazado."** Es lo que concluyó el juez de Dover. Sus defensores lo niegan: no exige una Tierra joven, Behe acepta la ascendencia común y no identifica al diseñador. El debate sigue abierto.
 
-¿Cuál es entonces la postura cristiana? Ninguna de las cuatro es "el credo". Lo que la Iglesia confiesa desde hace siglos es que Dios es el Creador del cielo y de la tierra, y las cuatro lo afirman. Lo que hacen es proponer, con distintos aciertos y distintas dificultades, cómo encaja la historia de la vida con ese Creador y con el texto de Génesis. Según Gallup, en Estados Unidos los creyentes se reparten en tres grupos grandes: el 37% cree en una creación reciente, el 34% en una evolución guiada por Dios y el 24% en una evolución sin Dios. Nadie tiene el monopolio de la fe.
+### ¿Qué no prueba este artículo?
 
-Lo que sí conviene evitar son dos errores opuestos. Uno es convertir una hipótesis científica en prueba de lealtad a Cristo, como si dudar de la Tierra joven o de la evolución dejara a alguien fuera de la fe. El otro es dar por resuelto lo que sigue abierto, ya sea el origen de la vida, la manera exacta en que Dios obró o la historicidad de Adán, y desestimar como ingenuo a quien piensa distinto. Lo que este sitio propone es tomar en serio la evidencia y la Escritura, con humildad, y discutir con la cabeza y con el corazón.
+Este artículo no decide cuál postura es la correcta. Muestra qué sostiene cada una, con qué evidencia y con qué dificultades. Y no prueba que una de ellas sea la "cristiana": todas afirman al mismo Creador.
 
-¿Tenés una objeción a este artículo, o una pregunta que no quedó resuelta? Escribinos desde la sección de Contacto.
+Los argumentos de *Creación del universo* y de *El origen de la vida* (un universo con comienzo, constantes calibradas, un código genético que el azar no explica) tampoco dependen de qué postura adoptes sobre la historia posterior de la vida.
+
+### ¿A qué conclusión llegamos?
+
+**Hechos que quedan en pie:**
+
+- **Las cuatro posturas confiesan al mismo Creador** y la misma dignidad humana.
+- **La ciencia académica sostiene una Tierra de 4.540 millones de años y antepasados comunes.** Esa es hoy la posición de la mayoría de los científicos, de la Iglesia católica y de cristianos como Collins y Miller.
+- **Cada postura tiene defensores serios y dificultades reconocidas** por ellos mismos, desde Wise en la Tierra joven hasta Behe en el diseño inteligente.
+- **Se mezclan tres preguntas:** la bíblica, la científica y la filosófica. Muchos desacuerdos se aclaran al separarlas.
+- **La condena clásica apuntaba al "sin propósito", no a la biología.** Hodge lo dijo en 1874 y Juan Pablo II lo recordó en 1996.
+- **Ninguna postura es el credo.** El credo confiesa que Dios creó, y las cuatro lo afirman.
+
+Lo que une pesa más que lo que separa. Los cristianos tienen que discutir con la cabeza y con el corazón, sin convertir una hipótesis científica en una prueba de lealtad a Cristo, y sin descartar como ingenuo a quien piensa distinto. Lo esencial no está en discusión: Dios pensó, quiso y sostiene este mundo.
+
+¿Tenés una objeción a este argumento, o una pregunta que no quedó resuelta? Escribinos desde la sección de Contacto.
 
 ### Para profundizar
 
-- Francis S. Collins, *The Language of God: A Scientist Presents Evidence for Belief* (2006).
+- Gallup, "Majority Still Credits God for Humankind, but Not Creationism" (2024).
+- Clair Patterson, "Age of meteorites and the earth", *Geochimica et Cosmochimica Acta* (1956).
+- John C. Whitcomb y Henry M. Morris, *The Genesis Flood* (1961).
+- Kurt Wise, en John F. Ashton (ed.), *In Six Days: Why 50 Scientists Choose to Believe in Creation* (Master Books, 2001).
 - Kenneth R. Miller, *Finding Darwin's God*.
+- Hugh Ross, *Creator and the Cosmos*.
+- Francis S. Collins, *The Language of God: A Scientist Presents Evidence for Belief* (2006).
 - Denis Alexander, *Creation or Evolution: Do We Have to Choose?* (2008).
 - Simon Conway Morris, *Life's Solution: Inevitable Humans in a Lonely Universe* (Cambridge University Press, 2003).
-- Michael J. Behe, *Darwin's Black Box* (1996).
-- Stephen C. Meyer, *Darwin's Doubt* (2013).
-- Hugh Ross, *Creator and the Cosmos*.
-- Kurt Wise, en John F. Ashton (ed.), *In Six Days: Why 50 Scientists Choose to Believe in Creation* (Master Books, 2001).
-- John H. Walton, *The Lost World of Genesis One* (2009).
-- S. Joshua Swamidass, *The Genealogical Adam and Eve* (IVP Academic, 2019).
-- Dennis Venema y Scot McKnight, *Adam and the Genome* (2017).
-- Charles Hodge, *What Is Darwinism?* (1874).
 - Theodosius Dobzhansky, "Nothing in Biology Makes Sense Except in the Light of Evolution", *The American Biology Teacher* 35(3) (1973), pp. 125-129.
-- Pío XII, *Humani Generis* (1950), y Juan Pablo II, "La verdad no puede contradecir a la verdad", mensaje a la Pontificia Academia de las Ciencias (22 de octubre de 1996).
-- Agustín de Hipona, *De Genesi ad litteram* (siglos IV-V).
-- J. W. IJdo et al., "Origin of human chromosome 2: an ancestral telomere-telomere fusion", *PNAS* 88 (1991), pp. 9051-9055.
+- Michael J. Behe, *Darwin's Black Box* (1996).
+- Stephen C. Meyer, *Darwin's Doubt* (HarperOne, 2013).
 - *Kitzmiller v. Dover Area School District*, 400 F. Supp. 2d 707 (M.D. Pa., 2005).
-- Gallup, "Majority Still Credits God for Humankind, but Not Creationism" (2024).
+- The Chimpanzee Sequencing and Analysis Consortium, "Initial sequence of the chimpanzee genome and comparison with the human genome", *Nature* 437 (2005), pp. 69-87.
+- J. W. IJdo et al., "Origin of human chromosome 2: an ancestral telomere-telomere fusion", *PNAS* 88 (1991), pp. 9051-9055.
+- Charles Hodge, *What Is Darwinism?* (1874).
+- Pío XII, *Humani Generis* (1950); Juan Pablo II, mensaje a la Pontificia Academia de las Ciencias (22 de octubre de 1996).
+- Agustín de Hipona, *De Genesi ad litteram* (siglos IV-V).
+- John H. Walton, *The Lost World of Genesis One* (IVP Academic, 2009).
+- S. Joshua Swamidass, *The Genealogical Adam and Eve* (IVP Academic, 2019); Dennis Venema y Scot McKnight, *Adam and the Genome* (2017).
