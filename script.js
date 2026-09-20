@@ -41,7 +41,7 @@ async function loadArticleMetadata() {
     const folder = CATEGORY_FOLDERS[article.category];
     if (!folder) return;
     try {
-      const response = await fetch(`content/${folder}/${article.slug}.md`);
+      const response = await fetch(`Artículos/${folder}/${article.slug}.md`);
       if (!response.ok) return;
       const frontmatter = (await response.text()).split('---')[1] || '';
       article.title = frontmatterValue(frontmatter, 'titulo') || article.title;
@@ -117,12 +117,12 @@ function hydrateArticleImages() {
       if (index >= imageExtensions.length) return;
       const image = new Image();
       image.onload = () => {
-        cover.style.backgroundImage = `url("public/imagenes/articulos/${article.slug}.${imageExtensions[index]}")`;
+        cover.style.backgroundImage = `url("FOTOS/articulos/${article.slug}.${imageExtensions[index]}")`;
         cover.classList.add('article-cover--has-image');
         if (article.imagePosition) cover.style.backgroundPosition = article.imagePosition;
       };
       image.onerror = () => tryImage(index + 1);
-      image.src = `public/imagenes/articulos/${article.slug}.${imageExtensions[index]}`;
+      image.src = `FOTOS/articulos/${article.slug}.${imageExtensions[index]}`;
     };
     tryImage(0);
   });

@@ -48,7 +48,7 @@ function showMessage(title, message) {
 }
 
 function imageCandidates(currentSlug) {
-  return ['jpg', 'jpeg', 'png', 'webp'].map((extension) => `public/imagenes/articulos/${currentSlug}.${extension}`);
+  return ['jpg', 'jpeg', 'png', 'webp'].map((extension) => `FOTOS/articulos/${currentSlug}.${extension}`);
 }
 
 function loadCover(currentArticle, data) {
@@ -78,7 +78,7 @@ async function renderArticle() {
     return;
   }
 
-  const response = await fetch(`content/${CATEGORY_FOLDERS[article.category]}/${article.slug}.md?v=${Date.now()}`);
+  const response = await fetch(`Artículos/${CATEGORY_FOLDERS[article.category]}/${article.slug}.md?v=${Date.now()}`);
   if (!response.ok) {
     showMessage('Artículo no disponible', 'Este texto todavía no está disponible en la biblioteca.');
     return;
