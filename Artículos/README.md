@@ -2,7 +2,7 @@
 
 ## Categorías fijas
 Usá estas categorías exactamente como están definidas en el sitio:
-- Cosmovisión
+- Ciencia y fe
 - Historia bíblica
 - Jesús histórico
 - Sufrimiento y mal
@@ -52,7 +52,7 @@ En `script.js`, dentro del array `articleLibrary`, agregá un objeto con esta es
 {
   id: 'slug-del-articulo',
   title: 'Título del artículo',
-  category: 'Cosmovisión',
+  category: 'Ciencia y fe',
   date: '15 de septiembre de 2026',
   coverClass: 'cosmovision',
   excerpt: 'Resumen para la tarjeta del listado.',
