@@ -9,9 +9,13 @@ enfoque_imagen: ""
 ---
 *Serie: Evidencias para un Diseñador — Parte 2*
 
+## Un código escrito en cada célula
+
+Categoría: Ciencia y fe
+
 En el artículo anterior llegamos hasta el borde del escenario: un universo que tuvo un comienzo y cuyas constantes parecen calibradas de una manera que sigue desconcertando a los físicos. Pero un escenario, por perfecto que sea, no es una obra. Ahora entramos a la obra. Y la primera pregunta es tan simple de formular como difícil de responder: ¿cómo pasó la materia inerte a escribir, copiar y leer un mensaje?
 
-## Una gelatina que resultó ser una biblioteca
+### Una gelatina que resultó ser una biblioteca
 
 A mediados del siglo XIX, muchos naturalistas imaginaban la célula como una especie de gelatina simple, un puñado de sustancias mezcladas. Con ese cuadro en la cabeza, pensar que la vida había surgido sola en algún charco tibio no parecía pedir demasiado.
 
@@ -21,7 +25,7 @@ Y no lo dicen únicamente los creyentes. Bill Gates escribió en 1995 que el ADN
 
 Nada de esto es una metáfora poética. El sistema tiene un alfabeto (cuatro letras), "palabras" de tres letras (64 combinaciones posibles), un diccionario (el código genético, que asigna cada tripleta a uno de los 20 aminoácidos o a una señal de parada), una maquinaria de lectura y traducción (el ribosoma y las moléculas de ARN de transferencia) e incluso mecanismos para corregir errores. Es lenguaje en el sentido técnico de la palabra.
 
-## Sal, sopa de letras y soneto
+### Sal, sopa de letras y soneto
 
 Antes de seguir conviene precisar una palabra que se usa mucho y se entiende poco: "información". El químico Leslie Orgel, uno de los grandes investigadores del origen de la vida y nada sospechoso de simpatizar con el diseño, propuso en 1973 la expresión **complejidad especificada** para distinguir lo vivo de lo que no lo está.
 
@@ -37,7 +41,7 @@ Ahora una observación clave del químico y filósofo Michael Polanyi, publicada
 
 Lo mismo vale para el diccionario. Hasta donde se sabe, ninguna ley química obliga a que la tripleta GCU signifique "alanina". Existen hipótesis sobre afinidades parciales entre algunos aminoácidos y sus tripletas, pero ninguna explica el código completo.
 
-## El huevo y la gallina más antiguo del mundo
+### El huevo y la gallina más antiguo del mundo
 
 En la célula actual, el ADN no se copia solo: necesita proteínas que lo copien y lo lean. Y las proteínas no se construyen solas: necesitan las instrucciones del ADN y una maquinaria de traducción que a su vez está hecha de proteínas y ARN. Incluso las enzimas que asignan cada aminoácido a su tripleta correcta son proteínas cuyo plano está escrito en ese mismo código. El sistema necesita el código para fabricar a quienes leen el código.
 
@@ -45,7 +49,7 @@ Yuri Wolf y Eugene Koonin, biólogos evolutivos que buscan explicaciones puramen
 
 Y acá hay un punto que suele pasarse por alto. La selección natural, el gran motor de la evolución, necesita algo que se reproduzca con variaciones. Theodosius Dobzhansky, uno de los arquitectos de la teoría moderna de la evolución, lo dijo en 1965: hablar de selección natural antes de que existan seres que se reproduzcan es "una contradicción en los términos". Esto no cuestiona la evolución posterior. Señala que la evolución necesita una línea de partida, y esa línea de partida es exactamente lo que estamos discutiendo.
 
-## Lo que lograron los laboratorios, y lo que no
+### Lo que lograron los laboratorios, y lo que no
 
 Sería injusto pasar por alto lo hecho. En 1953, un joven estudiante de doctorado, Stanley Miller, hizo pasar descargas eléctricas por una mezcla de gases que imitaba lo que entonces se creía la atmósfera primitiva, y obtuvo aminoácidos, algunos de los ladrillos de las proteínas. Fue un hito que abrió un campo entero de investigación.
 
@@ -63,7 +67,7 @@ El químico James Tour, catedrático de la Universidad de Rice, creyente y una d
 
 También vale la pena la historia de Dean Kenyon. En 1969 fue coautor de *Biochemical Predestination*, uno de los libros más influyentes a favor de la idea de que la propia química empujaba la materia hacia la vida. Años después dejó de creer que esa idea se sostuviera frente a los datos, y en 1984 escribió el prólogo de *The Mystery of Life's Origin*, del químico Charles Thaxton, el ingeniero de materiales Walter Bradley y el geoquímico Roger Olsen. Ese libro sostenía que la química y la termodinámica no alcanzan para explicar la información de las biomoléculas. Kenyon terminó adhiriendo al diseño inteligente.
 
-## El problema del azar: los números
+### El problema del azar: los números
 
 Llegamos a la palabra que da título al artículo. ¿Puede el azar escribir una proteína funcional?
 
@@ -75,7 +79,7 @@ Con esa escala en mente, veamos el cálculo de un especialista que no busca un D
 
 Es el mismo recurso que vimos en el artículo anterior para el ajuste fino del universo. Cuando el azar no alcanza en un universo, se multiplican los universos. Quien lo hace tiene derecho a proponerlo, pero conviene ver lo que implica: una explicación que no se puede observar, medir ni poner a prueba.
 
-### Cuatro advertencias honestas
+**Cuatro advertencias honestas**
 
 Un artículo que pretende pensar con rigor tiene que decir hasta dónde llegan sus números.
 
@@ -84,7 +88,7 @@ Un artículo que pretende pensar con rigor tiene que decir hasta dónde llegan s
 - **"Cualquier secuencia es igual de improbable."** Es cierto, pero no es el punto. Toda mano de póker repartida es igual de improbable que cualquier otra. Ahora, si te reparten cinco veces seguidas una escalera real de espadas, sospechás del mazo. La diferencia está en que la escalera real se define por adelantado, por un criterio independiente de la mano recibida. En una proteína, ese criterio es la función: de todas las cadenas posibles, solo algunas funcionan.
 - **"Hubo mucho tiempo."** La Tierra se formó hace unos 4.540 millones de años. Las evidencias más aceptadas de vida microbiana tienen al menos 3.500 millones, y hay hallazgos más discutidos que la ubican en 3.700 millones o incluso antes. La ventana, entonces, va de unos pocos cientos de millones de años a mil millones. Y el tiempo solo ayuda si existe un mecanismo que conserve lo ya logrado. Sin algo que se copie, cada intento parte de cero. Volvemos a Dobzhansky.
 
-## Lo que admiten quienes no buscan un Diseñador
+### Lo que admiten quienes no buscan un Diseñador
 
 Francis Crick, codescubridor de la estructura del ADN y ateo, escribió en 1981 en *Life Itself* que el origen de la vida parece hoy "casi un milagro", por la cantidad de condiciones que habrían tenido que cumplirse. Inmediatamente aclaró que eso no implica que sea imposible por vías químicas ordinarias, y que el tiempo y la variedad de ambientes eran enormes. Su propia especulación fue la "panspermia dirigida", junto con Orgel: que la vida habría sido enviada desde otro planeta por una civilización avanzada. Pero eso solo traslada el problema un casillero más atrás: ¿cómo surgió la vida de esa civilización?
 
@@ -92,7 +96,7 @@ El físico Paul Davies, que busca la respuesta en leyes de auto-organización to
 
 Ninguno de ellos concluye que hay un Diseñador. Pero conviene notar en qué coinciden: plantean el problema con las mismas palabras (información, código, especificación, improbabilidad extrema) y ninguno afirma que esté resuelto. El desacuerdo no es sobre los hechos. Es sobre cuál es la mejor explicación.
 
-## Los científicos que ven una Mente detrás del código
+### Los científicos que ven una Mente detrás del código
 
 **Stephen Meyer**, filósofo de la ciencia con doctorado en Cambridge (su tesis, de 1990, trató sobre la metodología de los estudios del origen de la vida), desarrolló el argumento más completo en *Signature in the Cell* (2009), elegido por el *Times Literary Supplement* entre los libros del año. Su razonamiento tiene la misma forma que el de los científicos históricos, como Lyell y Darwin: para explicar un efecto del pasado, se busca una causa de la que sepamos, por experiencia, que produce efectos de ese tipo. Ahora bien, cada vez que conocemos el origen de un código digital con información especificada (un programa, un libro, una inscripción), ese origen es una mente. No conocemos un solo caso en que ese tipo de información haya surgido, sin dirección, de la química. Por lo tanto, concluye, la mejor explicación de la información del ADN es una causa inteligente.
 
@@ -100,7 +104,7 @@ Ninguno de ellos concluye que hay un Diseñador. Pero conviene notar en qué coi
 
 Conviene decir algo que no siempre se dice: no todos los científicos cristianos leen la evidencia de esta manera. **Francis Collins**, que dirigió el Proyecto Genoma Humano, es creyente, acepta la evolución y ve en el ADN un motivo de asombro, más que una prueba de diseño. Los cristianos discrepan sobre cómo obró Dios, y ese es tema para otro artículo. Lo que importa acá es esto: la fe cristiana no depende de este argumento. Es un argumento de razón, y como tal se puede discutir.
 
-## "¿No es esto un dios de los huecos?"
+### "¿No es esto un dios de los huecos?"
 
 En el artículo anterior respondimos esta objeción en general. Acá conviene agregar un matiz. El argumento de Meyer no dice "no sabemos cómo pasó, entonces fue Dios". Dice: sabemos cómo se produce, siempre que lo hemos visto, este tipo de información, y no conocemos otra causa capaz de hacerlo. Es una inferencia a partir de lo que sabemos, no de lo que ignoramos.
 
@@ -108,7 +112,7 @@ Pero un argumento honesto tiene que decir qué lo pondría en duda. Si alguien m
 
 Y hay un límite que también corresponde señalar. Este argumento apunta a una Mente, no a una persona concreta. Que esa Mente sea el Dios de la Biblia es otra pregunta, con otras razones, que se discuten en otros artículos de esta biblioteca.
 
-## La conclusión a la que apunta la evidencia
+### La conclusión a la que apunta la evidencia
 
 Repasemos los hechos, uno por uno:
 
@@ -125,7 +129,7 @@ Esto no es una demostración matemática, y quien diga que lo es exagera. Es un 
 
 ¿Tenés una objeción a este argumento, o una pregunta que no quedó resuelta? Escribinos desde la sección de Contacto.
 
-## Para profundizar
+### Para profundizar
 
 - Stephen C. Meyer, *Signature in the Cell: DNA and the Evidence for Intelligent Design* (HarperOne, 2009).
 - Charles Thaxton, Walter Bradley y Roger Olsen, *The Mystery of Life's Origin* (1984).
