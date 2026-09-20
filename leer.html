@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artículo | Piedra Angular</title>
+  <link rel="icon" type="image/png" href="FOTOS/FAVICON/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260920-1">
+</head>
+<body>
+  <div class="app-shell app-shell--article">
+    <header class="topbar">
+      <a class="brand" href="index.html#articulos" aria-label="Volver a artículos">
+        <img class="brand-mark" src="FOTOS/FAVICON/favicon.png" alt="" aria-hidden="true">
+        <span>Piedra Angular</span>
+      </a>
+    </header>
+
+    <main class="article-page" id="article-page" aria-live="polite">
+      <article class="article-post" id="article-post">
+        <div class="article-post__cover article-cover--default" id="article-cover">
+          <span id="article-category"></span>
+        </div>
+        <div class="article-post__body">
+          <p class="article-date" id="article-date"></p>
+          <h1 id="article-title">Cargando artículo...</h1>
+          <p class="article-post__lead" id="article-description"></p>
+          <div class="article-post__actions" id="article-actions">
+            <a class="button button--secondary" href="index.html#articulos">Volver a artículos</a>
+          </div>
+          <div class="article-reader article-reader--page">
+            <div class="article-reader__content" id="article-content"></div>
+          </div>
+        </div>
+      </article>
+    </main>
+  </div>
+  <script src="content/article-index.js"></script>
+  <script src="vendor/marked.js"></script>
+  <script src="leer.js?v=20260920-3"></script>
+</body>
+</html>

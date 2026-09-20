@@ -31,7 +31,7 @@ enfoque_imagen: ""
 ---
 ```
 
-El cuerpo queda vacío mientras el artículo está en proceso. El catálogo de la biblioteca está en `content/article-index.js`, que conserva los mismos datos para que el sitio estático pueda renderizar la lista.
+El cuerpo queda vacío mientras el artículo está en proceso. El catálogo de la biblioteca está en `content/article-index.js`, que conserva los slugs y los datos resumidos para que el sitio estático pueda renderizar la lista. La lectura automática se hace desde `leer.html` en la raíz: carga el Markdown publicado y lo convierte en HTML con la librería local `vendor/marked.js`.
 
 ## Agregar un artículo
 
@@ -43,7 +43,37 @@ El cuerpo queda vacío mientras el artículo está en proceso. El catálogo de l
 
 ## Publicar un artículo
 
-Pegá el texto debajo del segundo `---`, cambiá `estado` a `publicado` y completá `fecha`. La biblioteca lee esos valores directamente desde el Markdown; no hace falta tocar el índice para cambiar el estado de un artículo ya creado. Agregá la página HTML y el PDF con el mismo slug en `Artículos/`. Los publicados aparecen primero y muestran lectura y descarga; los que siguen en proceso solo muestran esa etiqueta.
+Para publicar un artículo que ya está en la lista, por ejemplo `origen-de-la-vida`:
+
+1. Abrí `content/ciencia-y-fe/origen-de-la-vida.md`.
+2. Pegá el texto completo debajo del segundo `---`, usando Markdown.
+3. Cambiá `estado: en-proceso` por `estado: publicado`.
+4. Completá `fecha`.
+5. Subí opcionalmente `public/imagenes/articulos/origen-de-la-vida.jpg` (también se aceptan `.jpeg`, `.png` y `.webp`).
+6. Subí opcionalmente `Artículos/origen-de-la-vida.pdf`.
+7. Hacé commit y push. No crees un HTML: la tarjeta enlazará a `leer.html?slug=origen-de-la-vida` y el lector cargará el `.md` automáticamente.
+
+`Creación del universo` es la excepción de compatibilidad: mantiene su página existente en `Artículos/creacion-del-universo.html` y su PDF actual.
+
+Los publicados aparecen primero y muestran lectura. El botón de PDF solo aparece cuando el archivo existe. Los artículos en proceso no son clickeables y muestran únicamente la etiqueta correspondiente.
+
+## Guía rápida de Markdown
+
+```markdown
+# Título principal
+## Subtítulo
+
+Un párrafo con **negrita** y *cursiva*.
+
+- Primer punto
+- Segundo punto
+
+> Una cita destacada.
+
+`código corto`
+```
+
+Usá una línea en blanco entre párrafos y encabezados. El lector convierte estos elementos al estilo de lectura del sitio.
 
 ## Slugs e imágenes
 

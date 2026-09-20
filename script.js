@@ -9,7 +9,9 @@ const articleLibrary = (window.ARTICLE_INDEX || []).map((article) => ({
   ...article,
   id: article.slug,
   coverClass: article.coverClass || 'default',
-  url: article.status === 'publicado' ? `Artículos/${article.slug}.html` : '',
+  url: article.status === 'publicado'
+    ? article.slug === 'creacion-del-universo' ? 'Artículos/creacion-del-universo.html' : `leer.html?slug=${encodeURIComponent(article.slug)}`
+    : '',
   file: article.status === 'publicado'
     ? article.slug === 'creacion-del-universo' ? 'Artículos/Creación del universo.pdf' : `Artículos/${article.slug}.pdf`
     : '',
@@ -29,6 +31,7 @@ const articleState = {
 };
 
 function frontmatterValue(frontmatter, field) {
+  frontmatter = frontmatter.replace(/\r\n?/g, '\n');
   const match = frontmatter.match(new RegExp(`^${field}:\\s*([\\s\\S]*?)\\s*$`, 'm'));
   return match ? match[1].replace(/^"|"$/g, '') : '';
 }
@@ -47,7 +50,9 @@ async function loadArticleMetadata() {
       article.date = frontmatterValue(frontmatter, 'fecha') || article.date;
       article.status = frontmatterValue(frontmatter, 'estado') || article.status;
       article.imagePosition = frontmatterValue(frontmatter, 'enfoque_imagen');
-      article.url = article.status === 'publicado' ? `Artículos/${article.slug}.html` : '';
+      article.url = article.status === 'publicado'
+        ? article.slug === 'creacion-del-universo' ? 'Artículos/creacion-del-universo.html' : `leer.html?slug=${encodeURIComponent(article.slug)}`
+        : '';
       article.file = article.status === 'publicado'
         ? article.slug === 'creacion-del-universo' ? 'Artículos/Creación del universo.pdf' : `Artículos/${article.slug}.pdf`
         : '';
