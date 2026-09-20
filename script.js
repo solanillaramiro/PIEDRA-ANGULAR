@@ -4,26 +4,59 @@ const sidebar = document.querySelector('#sidebar');
 const menuToggle = document.querySelector('.menu-toggle');
 const menuBackdrop = document.querySelector('.menu-backdrop');
 
-const ARTICLE_CATEGORIES = ['todos', 'Ciencia y fe', 'Historia bíblica', 'Jesús histórico', 'Sufrimiento y mal'];
-
-const articleLibrary = [
-  {
-    id: 'creacion-del-universo',
-    title: 'Creación del universo',
-    category: 'Ciencia y fe',
-    date: '15 de septiembre de 2026',
-    coverClass: 'cosmovision',
-    excerpt: 'Un recorrido para pensar el origen del universo desde la ciencia, la filosofía y la fe.',
-    description: 'El origen del universo es una pregunta que toca la ciencia, la filosofía y la fe.',
-    file: 'Artículos/Creación del universo.pdf',
-    url: 'Artículos/creacion-del-universo.html',
-  },
-];
+const ARTICLE_CATEGORIES = ['todos', 'Ciencia y fe', 'Historia bíblica', 'Jesús histórico', 'Sufrimiento y mal', 'Existencia de Dios', 'Otras religiones'];
+const articleLibrary = (window.ARTICLE_INDEX || []).map((article) => ({
+  ...article,
+  id: article.slug,
+  coverClass: article.coverClass || 'default',
+  url: article.status === 'publicado' ? `Artículos/${article.slug}.html` : '',
+  file: article.status === 'publicado'
+    ? article.slug === 'creacion-del-universo' ? 'Artículos/Creación del universo.pdf' : `Artículos/${article.slug}.pdf`
+    : '',
+}));
+const CATEGORY_FOLDERS = {
+  'Ciencia y fe': 'ciencia-y-fe',
+  'Historia bíblica': 'historia-biblica',
+  'Jesús histórico': 'jesus-historico',
+  'Sufrimiento y mal': 'sufrimiento-y-mal',
+  'Existencia de Dios': 'existencia-de-dios',
+  'Otras religiones': 'otras-religiones',
+};
 
 const articleState = {
   query: '',
   category: 'todos',
 };
+
+function frontmatterValue(frontmatter, field) {
+  const match = frontmatter.match(new RegExp(`^${field}:\\s*([\\s\\S]*?)\\s*$`, 'm'));
+  return match ? match[1].replace(/^"|"$/g, '') : '';
+}
+
+async function loadArticleMetadata() {
+  await Promise.all(articleLibrary.map(async (article) => {
+    const folder = CATEGORY_FOLDERS[article.category];
+    if (!folder) return;
+    try {
+      const response = await fetch(`content/${folder}/${article.slug}.md`);
+      if (!response.ok) return;
+      const frontmatter = (await response.text()).split('---')[1] || '';
+      article.title = frontmatterValue(frontmatter, 'titulo') || article.title;
+      article.category = frontmatterValue(frontmatter, 'tema') || article.category;
+      article.description = frontmatterValue(frontmatter, 'descripcion') || article.description;
+      article.date = frontmatterValue(frontmatter, 'fecha') || article.date;
+      article.status = frontmatterValue(frontmatter, 'estado') || article.status;
+      article.imagePosition = frontmatterValue(frontmatter, 'enfoque_imagen');
+      article.url = article.status === 'publicado' ? `Artículos/${article.slug}.html` : '';
+      article.file = article.status === 'publicado'
+        ? article.slug === 'creacion-del-universo' ? 'Artículos/Creación del universo.pdf' : `Artículos/${article.slug}.pdf`
+        : '';
+    } catch (error) {
+    }
+  }));
+  renderFilters();
+  renderArticleList();
+}
 
 function getFilteredArticles() {
   const query = articleState.query.trim().toLowerCase();
@@ -56,20 +89,38 @@ function renderArticleList() {
     return;
   }
 
-  articleGrid.innerHTML = visibleArticles.map((article) => `
-    <article class="article-card" data-article-id="${article.id}">
-      <div class="article-cover article-cover--${article.coverClass}"><span>${article.category}</span></div>
+  const sortedArticles = [...visibleArticles].sort((first, second) => Number(second.status === 'publicado') - Number(first.status === 'publicado'));
+  articleGrid.innerHTML = sortedArticles.map((article) => `
+    <article class="article-card ${article.status === 'en-proceso' ? 'article-card--draft' : ''}" data-article-id="${article.id}">
+      <div class="article-cover article-cover--${article.coverClass}" data-image-slug="${article.slug}"><span>${article.category}</span></div>
       <div class="article-card__body">
-        <p class="article-date">${article.date}</p>
+        ${article.status === 'publicado' ? `<p class="article-date">${article.date}</p>` : '<p class="article-status">En proceso</p>'}
         <h2>${article.title}</h2>
-        <p>${article.excerpt}</p>
-        <div class="article-card__footer">
-          <a href="${article.url}">Leer artículo</a>
-          <a href="${article.file}" target="_blank" rel="noopener noreferrer">Descargar PDF</a>
-        </div>
+        <p>${article.description}</p>
+        ${article.status === 'publicado' ? `<div class="article-card__footer"><a href="${article.url}">Leer artículo</a><a href="${article.file}" target="_blank" rel="noopener noreferrer">Descargar PDF</a></div>` : ''}
       </div>
     </article>
   `).join('');
+  hydrateArticleImages();
+}
+
+function hydrateArticleImages() {
+  document.querySelectorAll('[data-image-slug]').forEach((cover) => {
+    const article = articleLibrary.find((item) => item.slug === cover.dataset.imageSlug);
+    const imageExtensions = ['jpg', 'jpeg', 'png', 'webp'];
+    const tryImage = (index) => {
+      if (index >= imageExtensions.length) return;
+      const image = new Image();
+      image.onload = () => {
+        cover.style.backgroundImage = `url("public/imagenes/articulos/${article.slug}.${imageExtensions[index]}")`;
+        cover.classList.add('article-cover--has-image');
+        if (article.imagePosition) cover.style.backgroundPosition = article.imagePosition;
+      };
+      image.onerror = () => tryImage(index + 1);
+      image.src = `public/imagenes/articulos/${article.slug}.${imageExtensions[index]}`;
+    };
+    tryImage(0);
+  });
 }
 
 function attachArticleHandlers() {
@@ -154,3 +205,4 @@ renderFilters();
 renderArticleList();
 attachArticleHandlers();
 setRoute(window.location.hash.slice(1) || 'inicio');
+loadArticleMetadata();
