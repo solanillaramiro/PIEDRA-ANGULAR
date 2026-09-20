@@ -49,7 +49,7 @@ async function loadArticleMetadata() {
       article.description = frontmatterValue(frontmatter, 'descripcion') || article.description;
       article.date = frontmatterValue(frontmatter, 'fecha') || article.date;
       article.status = frontmatterValue(frontmatter, 'estado') || article.status;
-      article.imagePosition = frontmatterValue(frontmatter, 'enfoque_imagen');
+      article.imagePosition = frontmatterValue(frontmatter, 'enfoque_imagen') || 'center center';
       article.url = article.status === 'publicado'
         ? article.slug === 'creacion-del-universo' ? 'Artículos/creacion-del-universo.html' : `leer.html?slug=${encodeURIComponent(article.slug)}`
         : '';
@@ -119,7 +119,7 @@ function hydrateArticleImages() {
       image.onload = () => {
         cover.style.backgroundImage = `url("FOTOS/articulos/${article.slug}.${imageExtensions[index]}")`;
         cover.classList.add('article-cover--has-image');
-        if (article.imagePosition) cover.style.backgroundPosition = article.imagePosition;
+        cover.style.backgroundPosition = article.imagePosition || 'center center';
       };
       image.onerror = () => tryImage(index + 1);
       image.src = `FOTOS/articulos/${article.slug}.${imageExtensions[index]}`;

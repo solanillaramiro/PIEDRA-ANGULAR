@@ -59,7 +59,7 @@ function loadCover(currentArticle, data) {
     image.onload = () => {
       elements.cover.style.backgroundImage = `url("${candidates[index]}")`;
       elements.cover.classList.add('article-cover--has-image');
-      if (data.enfoque_imagen) elements.cover.style.backgroundPosition = data.enfoque_imagen;
+      elements.cover.style.backgroundPosition = data.enfoque_imagen || 'center center';
     };
     image.onerror = () => tryImage(index + 1);
     image.src = candidates[index];
