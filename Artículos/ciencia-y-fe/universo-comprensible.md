@@ -15,7 +15,7 @@ Categoría: Ciencia y fe
 
 Cuando abrís el mapa del celular para llegar a una dirección que nunca visitaste, pasa algo que ya no nos sorprende. Tu teléfono recibe señales de varios satélites del sistema GPS, que giran a unos 20.200 kilómetros de altura. Mide cuánto tardó en llegar la señal de cada uno y, con esos tiempos, calcula dónde estás parado. Todo depende de medir el tiempo con una exactitud enorme, porque las señales viajan a la velocidad de la luz: un error de una sola millonésima de segundo equivale a casi 300 metros de error en el mapa. Guardá esa idea, porque hace casi 2.000 años un texto ya decía que todo se sostiene en Alguien:
 
-> Porque en él fueron creadas todas las cosas, las que hay en los cielos y las que hay en la tierra, visibles e invisibles... todo fue creado por medio de él y para él. Y él es antes de todas las cosas, y todas las cosas subsisten en él. **Colosenses 1:16-17**
+> Porque en él fueron creadas todas las cosas, las que hay en los cielos y las que hay en la tierra, visibles e invisibles... todo fue creado por medio de él y para él. Y él es antes de todas las cosas, y todas las cosas subsisten en él. **(Colosenses 1:16-17)**
 
 Y acá aparece un problema. Los relojes atómicos de los satélites no marchan al mismo ritmo que los de la Tierra. Lo explica la teoría de la relatividad de Einstein. Dicho en simple, el tiempo no corre igual para todos: se atrasa cuando algo se mueve muy rápido y se adelanta lejos de una masa grande, como un planeta. Los satélites se mueven a unos 3,9 kilómetros por segundo, y eso los atrasa unos 7 microsegundos por día (un microsegundo es una millonésima de segundo). Pero como están lejos de la Tierra, donde la gravedad es más débil, se adelantan unos 45. El balance es un adelanto de 38 microsegundos por día.
 
@@ -27,11 +27,11 @@ Lo más llamativo es de dónde salen las ecuaciones que corrigen esos relojes. L
 
 Ante una cadena así, uno entiende la exclamación del apóstol Pablo. La escribió a propósito de otro tema, el plan de Dios para la humanidad, pero retrata bien el asombro:
 
-> ¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus juicios, e inescrutables sus caminos! **Romanos 11:33**
+> ¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus juicios, e inescrutables sus caminos! **(Romanos 11:33)**
 
 Nadie duda hoy de que la relatividad funciona: el mapa de tu celular es la prueba diaria. La pregunta que casi nadie hace es anterior: ¿por qué debería funcionar? ¿Por qué el universo se deja escribir en ecuaciones, y por qué una mente humana, que hace pocos miles de años cazaba en la sabana, puede leerlas? Este artículo sostiene algo que va más lejos que la ciencia: sin Dios, esa complejidad no tiene explicación. No tiene fundamento biológico, ni filosófico, ni conceptual. Sin un Creador, la ciencia llega a un callejón sin salida, y el texto que da luz sobre el asunto es la Biblia, que lo dijo mucho antes que los científicos:
 
-> Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. **Salmos 19:1-2**
+> Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. **(Salmos 19:1-2)**
 
 Para no quedarnos en opiniones, nos vamos a apoyar en cinco autores que pensaron esto a fondo. Francis Collins es el genetista que dirigió el Proyecto Genoma Humano. John Lennox es matemático de Oxford. Alister McGrath es biofísico y teólogo, también de Oxford, y fue ateo.
 
@@ -49,7 +49,7 @@ Para dimensionarlo hagamos una cuenta. El cielo entero tiene unos 41.250 grados 
 
 ¿Dónde está Dios en todo esto? Un cielo que responde a un cálculo es un cielo que obedece reglas, y las reglas no se escriben solas: alguien las puso. La Biblia lo planteó hace miles de años, en el libro de Job, como una pregunta que Dios le hace a un hombre y que hoy suena a desafío científico:
 
-> ¿Conoces las leyes que rigen los cielos? ¿Puedes establecer mi dominio sobre la tierra? **Job 38:33**
+> ¿Conoces las leyes que rigen los cielos? ¿Puedes establecer mi dominio sobre la tierra? **(Job 38:33)**
 
 Le Verrier tuvo que responder que sí conocía algunas, pero fijate en un detalle. Esas leyes ya estaban ahí antes de que él las descubriera. No las inventó: las leyó. Y quien lee una regla que rige el cielo está leyendo lo que otro escribió.
 
@@ -57,7 +57,7 @@ La tercera historia es más rara, porque el papel se adelantó a algo que ni siq
 
 ¿Dónde está Dios en todo esto? La antimateria estaba dentro del electrón antes de que nadie la buscara. Dirac no la fabricó: la encontró escondida en su propia ecuación. Y todo lo que se encuentra escondido, alguien lo puso ahí. Así lo dice el profeta Daniel, hablando de Dios:
 
-> El revela lo profundo y lo escondido: conoce lo que está en tinieblas, y la luz mora con él. **Daniel 2:22**
+> El revela lo profundo y lo escondido: conoce lo que está en tinieblas, y la luz mora con él. **(Daniel 2:22)**
 
 Hasta acá la ciencia brilla. Pero fijate dónde se detiene. Describe las leyes con una precisión asombrosa, y no puede decir de dónde salen.
 
@@ -73,7 +73,7 @@ Albert Einstein llamó a la comprensibilidad del mundo, en 1936, su eterno miste
 
 ¿Dónde está Dios en todo esto? La respuesta cristiana es sencilla: la mente humana puede leer el universo porque el mismo Dios que hizo el uno hizo la otra. El físico John Polkinghorne fue profesor de física matemática en Cambridge hasta 1979, sacerdote anglicano desde 1982 y Premio Templeton 2002. Describe el cosmos como transparente a la razón y bello, y ve en esa transparencia una pista del Creador. Francis Collins, que dirigió el Proyecto Genoma Humano, planteó en *The Language of God* (2006) la misma pregunta de Wigner: por qué la materia se comporta así y qué explica la eficacia de las matemáticas. Para él, el orden que la ciencia descifra es un lenguaje, el que da título a su libro. Y un lenguaje supone a alguien que habla. La Biblia lo dice de esta forma, en un pasaje del libro de Job:
 
-> Ciertamente espíritu hay en el hombre, e inspiración del Omnipotente los hace que entiendan. **Job 32:8**
+> Ciertamente espíritu hay en el hombre, e inspiración del Omnipotente los hace que entiendan. **(Job 32:8)**
 
 Esas palabras las dice Eliú, uno de los personajes del libro. Pero condensan una idea que atraviesa toda la Biblia: que el ser humano fue creado a imagen de Dios (Génesis 1:27), con una mente hecha para entender lo que el Creador hizo. Eso explica algo que la ciencia sola no puede explicar: por qué una criatura de pocos miles de años de historia puede leer las ecuaciones que gobiernan galaxias.
 
@@ -97,7 +97,7 @@ Ahora un cálculo que no depende de ninguna opinión, sino de contar. Hay 2¹⁰
 
 ¿Dónde está Dios en todo esto? Lo normal es el ruido, y lo raro es el orden. Las leyes de la física son un resumen cortísimo de un universo inmenso, y eso no se da por casualidad. Los pueblos del mundo antiguo lo intuían a su manera. En el poema babilónico *Enuma Elish*, el dios Marduk mata a la diosa Tiamat y forma el cielo y la tierra con partes de su cuerpo. Un mundo nacido de una guerra entre dioses es un botín, y no da ninguna razón para esperar que sea estable ni comprensible. La Biblia cuenta otra cosa: un solo Dios que crea hablando, "y dijo Dios", y que fundó el mundo con inteligencia:
 
-> Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia. **Proverbios 3:19**
+> Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia. **(Proverbios 3:19)**
 
 Hay más. Hace más de 2.500 años, el profeta Jeremías le habló a un pueblo sitiado por los babilonios, cuando todo parecía perdido. Para asegurarle que Dios cumpliría su promesa, usó como comparación "las leyes del cielo y la tierra" y el orden del día y de la noche (Jeremías 33:25). El razonamiento es este: si ese orden no falla, tampoco fallará el Señor que lo puso. Las teorías científicas se corrigen, y Einstein corrigió a Newton, pero el orden que ambos describen permanece. Ese orden estable es la firma de Alguien que no cambia.
 
@@ -111,7 +111,7 @@ Hasta acá vimos que el orden pide una explicación. Ahora veamos cómo tiene qu
 
 La primera premisa la vivimos todos los días. Nada aparece de la nada: ni una casa, ni una tormenta, ni una estrella. La segunda la sostiene la ciencia: el universo se expande, y si se retrocede en el tiempo, todo converge en un comienzo. Es lo que vimos en *Creación del universo*. Y la conclusión trae una consecuencia. La causa del espacio, del tiempo y de la materia no puede estar dentro del espacio, del tiempo ni de la materia, porque todavía no existían. Tiene que estar fuera de ellos: sin tiempo, sin cuerpo y con un poder enorme, capaz de hacer existir todo lo que existe. Es exactamente lo que dice la Biblia del Creador:
 
-> Antes que naciesen los montes y formases la tierra y el mundo, y desde el siglo y hasta el siglo, tú eres Dios. **Salmos 90:2**
+> Antes que naciesen los montes y formases la tierra y el mundo, y desde el siglo y hasta el siglo, tú eres Dios. **(Salmos 90:2)**
 
 El rey Salomón lo dijo con otra imagen, en la dedicación del templo: los cielos, "los cielos de los cielos", no pueden contener a Dios (1 Reyes 8:27). Y el libro de Job agrega que Dios "cuelga la tierra sobre nada" (Job 26:7): sin apoyo en ninguna materia previa. Ningún objeto del universo alcanza para contenerlo, porque él es el Autor de todo lo que existe.
 

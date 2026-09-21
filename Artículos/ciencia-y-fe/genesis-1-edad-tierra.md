@@ -17,7 +17,7 @@ Casi todos los jóvenes cristianos llegan, tarde o temprano, a la misma pregunta
 
 Este artículo sostiene algo que va más lejos que esa discusión. Sea cual sea la manera de leer Génesis 1, el primer capítulo de la Biblia afirma cuatro cosas que ninguna edad cambia. Que el universo tuvo un comienzo. Que lo creó un solo Dios. Que lo hizo con orden y con propósito. Y que puso en él al ser humano a su imagen. Sin ese Creador, el universo, la vida y la mente no tienen explicación. Y esa afirmación, escrita hace miles de años, es la que la ciencia moderna terminó confirmando. Lo que divide a los cristianos no es si Dios creó, sino cómo leer los días. Así empieza la Biblia:
 
-> En el principio crió Dios los cielos y la tierra. **Génesis 1:1**
+> En el principio crió Dios los cielos y la tierra. **(Génesis 1:1)**
 
 Para no quedarnos en opiniones, nos vamos a apoyar en autores que estudiaron el tema a fondo. John Lennox, matemático de Oxford, escribió *Seven Days That Divide the World* (2011) justamente para responder esta pregunta. Francis Collins, que dirigió el Proyecto Genoma Humano, contó en *The Language of God* (2006) cómo lee Génesis 1 un científico creyente. John Walton, profesor de Antiguo Testamento en Wheaton College, propone leer el capítulo desde el mundo en el que se escribió.
 
@@ -37,7 +37,7 @@ El universo es todavía más viejo. La misión espacial Planck midió en 2018 un
 
 ¿Qué significa esto? Que la ciencia no tiene un dato suelto, sino una convergencia de datos. Y acá aparece la pregunta que importa: ¿dónde está Dios en todo esto? En el comienzo. Una Tierra de 4.540 millones de años y un universo de 13.787 millones son, los dos, un universo con principio, y todo lo que comienza a existir necesita una causa. Además, hay una verdad que la Biblia dijo mucho antes. Ningún ser humano estuvo presente cuando se fundó la Tierra, y por eso todos razonamos desde la evidencia y desde el texto, nunca desde la memoria. Así se lo preguntó Dios a Job:
 
-> ¿Dónde estabas cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia. **Job 38:4**
+> ¿Dónde estabas cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia. **(Job 38:4)**
 
 Solo Dios estuvo. Por eso lo que Él dijo sobre ese momento, y no lo que nosotros imaginemos, es el punto de partida. Ahora veamos qué dijo exactamente.
 
@@ -59,7 +59,7 @@ La forma es válida, y las premisas se comprueban leyendo el capítulo. Los 6.00
 
 ¿Dónde está Dios en todo esto? En que el reloj del Creador no es el nuestro. Una oración de Moisés lo dice así:
 
-> Porque mil años delante de tus ojos son como el día de ayer, que pasó, y como una de las vigilias de la noche. **Salmos 90:4**
+> Porque mil años delante de tus ojos son como el día de ayer, que pasó, y como una de las vigilias de la noche. **(Salmos 90:4)**
 
 No es una fórmula para convertir días en milenios. Es una idea: el que crea el tiempo no está sometido a él. Y eso es lo que pide la lógica de una causa que existe antes que el universo, como vamos a ver más adelante.
 
@@ -73,7 +73,7 @@ Es la más conocida. Sostiene que los seis días son días de 24 horas y que la 
 
 Su argumento más fuerte es el texto. Cada día termina con "tarde y mañana", y el cuarto mandamiento vincula esos días con la semana de trabajo:
 
-> Porque en seis días hizo Jehová los cielos y la tierra, la mar y todas las cosas que en ellos hay, y reposó en el séptimo día: por tanto Jehová bendijo el día del reposo y lo santificó. **Éxodo 20:11**
+> Porque en seis días hizo Jehová los cielos y la tierra, la mar y todas las cosas que en ellos hay, y reposó en el séptimo día: por tanto Jehová bendijo el día del reposo y lo santificó. **(Éxodo 20:11)**
 
 Sus defensores añaden que teólogos como Basilio, Ambrosio, Beda y Calvino entendieron los días como días comunes. ¿Dónde está Dios en todo esto? En un Creador con poder para hacerlo todo en el tiempo que quiso: nada es demasiado grande para quien hizo el tiempo mismo. El punto en el que esta lectura más discrepa con los científicos de hoy es la edad de la Tierra y la geología del diluvio, que la gran mayoría de ellos rechaza.
 
@@ -87,7 +87,7 @@ Sus argumentos son tres. Génesis 2:4 usa la palabra "día" para todo el períod
 
 Propone que entre el primer versículo y el segundo pasó un tiempo larguísimo, y que los seis días describen una reorganización de la Tierra después de una catástrofe. La formuló en 1814 el teólogo escocés Thomas Chalmers, la difundió G. H. Pember en 1876 y la popularizaron las notas de la Biblia de Referencia Scofield. Se apoya en cómo se lee el versículo 2:
 
-> En el principio crió Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. **Génesis 1:1-2**
+> En el principio crió Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas. **(Génesis 1:1-2)**
 
 Su ventaja es que permite mantener días de 24 horas y a la vez un universo muy antiguo. Sus críticos señalan que el texto no menciona ninguna destrucción. Lennox propone algo emparentado, sin catástrofe alguna. Como cada día empieza con "y dijo Dios" y el versículo 1 no, "el principio" pudo ocurrir antes del primer día. En su libro (p. 53) concluye que sería lógicamente posible creer que los días son de 24 horas y que el universo es muy antiguo. ¿Dónde está Dios en todo esto? En el "principio": el Creador está antes de todo, antes de cualquier día.
 
@@ -97,7 +97,7 @@ Propone que los seis días son un marco literario, una forma ordenada de present
 
 El versículo 2 lo anuncia: la tierra está "desordenada y vacía", es decir, sin forma y sin habitantes. Primero se le da forma y después se la llena. Además, el séptimo día no cierra con "tarde y mañana": no termina. Es una de las lecturas más enseñadas en los seminarios. ¿Dónde está Dios en todo esto? En el Arquitecto que hizo el mundo con inteligencia, y no a los tropezones:
 
-> Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia. **Proverbios 3:19**
+> Jehová con sabiduría fundó la tierra; afirmó los cielos con inteligencia. **(Proverbios 3:19)**
 
 **Quinta lectura: el cosmos como templo**
 
@@ -105,7 +105,7 @@ John Walton, profesor de Antiguo Testamento en Wheaton College y doctor por el H
 
 Si Walton tiene razón, el texto no responde cuándo ni cómo se formó la materia. Responde quién gobierna el mundo y para qué fue hecho. ¿Dónde está Dios en todo esto? En su casa: el universo entero es el lugar donde el Creador habita y reina.
 
-> Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. **Salmos 19:1-2**
+> Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Un día emite palabra a otro día, y una noche a otra noche declara sabiduría. **(Salmos 19:1-2)**
 
 ### Lo que todas las lecturas afirman
 
@@ -113,7 +113,7 @@ Fijate lo que pasa cuando ponemos las cinco lecturas una al lado de la otra. Dis
 
 Para verlo, comparémoslo con lo que contaban otros pueblos. En el poema babilónico *Enuma Elish*, el dios Marduk mata a la diosa Tiamat y forma el cielo y la tierra con partes de su cuerpo. El mundo nace de una guerra entre dioses y es un botín. Muchos estudiosos ven puntos de contacto entre ese relato y Génesis 1, pero también una diferencia notable: un solo Dios crea con serenidad, hablando, y no a partir de un conflicto. Y evalúa su obra:
 
-> Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. **Génesis 1:31**
+> Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. **(Génesis 1:31)**
 
 Un mundo hecho por muchos dioses en pugna no da ninguna razón para esperar orden ni bondad. Un mundo hecho por un Dios que habla y ordena sí. Es el mismo razonamiento que vimos en *Por qué el universo es comprensible para la mente humana*: el orden que la ciencia descubre es lo que cabe esperar de un Creador racional, y no de un accidente. Y ninguna edad de la Tierra modifica eso.
 
@@ -135,7 +135,7 @@ Y acá viene lo más importante. Hoy la ciencia coincide con la Biblia en algo q
 
 La primera premisa la vivimos todos los días: nada aparece de la nada. La segunda la sostiene la ciencia. Y la conclusión trae una consecuencia: la causa del espacio, del tiempo y de la materia no puede estar dentro de ellos, porque todavía no existían. Tiene que estar fuera: sin tiempo, sin cuerpo y con un poder enorme. Es exactamente lo que dice la Biblia del Creador:
 
-> Antes que naciesen los montes y formases la tierra y el mundo, y desde el siglo y hasta el siglo, tú eres Dios. **Salmos 90:2**
+> Antes que naciesen los montes y formases la tierra y el mundo, y desde el siglo y hasta el siglo, tú eres Dios. **(Salmos 90:2)**
 
 Y hay un segundo paso. Una causa que existiera desde siempre y actuara por pura necesidad produciría su efecto desde siempre. Pero el universo no existe desde siempre: tuvo un comienzo. Luego su causa eligió producirlo, y elegir es lo que hacen las personas. Ahí está el callejón sin salida de quien no cree: sin un Creador, no hay respuesta para el origen del universo. Con Él, la primera línea de la Biblia se cumple palabra por palabra. Y el evangelio de Juan empieza igual, "En el principio era el Verbo", para decir que ese Creador tiene nombre y rostro.
 
