@@ -26,6 +26,7 @@
     const output = [];
     let paragraph = [];
     let list = null;
+    let quoteLines = null;
 
     const flushParagraph = () => {
       if (paragraph.length) {
@@ -38,6 +39,24 @@
       output.push(`<${list.ordered ? 'ol' : 'ul'}>${list.items.map((item) => `<li>${inline(item)}</li>`).join('')}</${list.ordered ? 'ol' : 'ul'}>`);
       list = null;
     };
+    const flushQuote = () => {
+      if (!quoteLines) return;
+      const paragraphs = [];
+      let lines = [];
+      quoteLines.forEach((line) => {
+        if (!line.trim()) {
+          if (lines.length) paragraphs.push(lines);
+          lines = [];
+          return;
+        }
+        lines.push(line);
+      });
+      if (lines.length) paragraphs.push(lines);
+      if (paragraphs.length) {
+        output.push(`<blockquote>${paragraphs.map((lines) => `<p>${lines.map(inline).join('<br>')}</p>`).join('')}</blockquote>`);
+      }
+      quoteLines = null;
+    };
 
     lines.forEach((line) => {
       const heading = /^(#{1,6})\s+(.+?)\s*#*$/.exec(line);
@@ -46,9 +65,10 @@
       const quote = /^\s*>\s?(.*)$/.exec(line);
       const code = /^\s*```/.test(line);
 
+      if (quote) { flushParagraph(); flushList(); if (!quoteLines) quoteLines = []; quoteLines.push(quote[1]); return; }
+      flushQuote();
       if (heading) { flushParagraph(); flushList(); output.push(`<h${heading[1].length}>${inline(heading[2])}</h${heading[1].length}>`); return; }
       if (bullet || ordered) { flushParagraph(); if (!list || list.ordered !== Boolean(ordered)) { flushList(); list = { ordered: Boolean(ordered), items: [] }; } list.items.push((bullet || ordered)[1]); return; }
-      if (quote) { flushParagraph(); flushList(); output.push(`<blockquote><p>${inline(quote[1])}</p></blockquote>`); return; }
       if (code) { flushParagraph(); flushList(); output.push('<pre><code>'); return; }
       if (!line.trim()) { flushParagraph(); flushList(); return; }
       flushList(); paragraph.push(line);
@@ -56,6 +76,7 @@
 
     flushParagraph();
     flushList();
+    flushQuote();
     return output.join('\n');
   }
 
