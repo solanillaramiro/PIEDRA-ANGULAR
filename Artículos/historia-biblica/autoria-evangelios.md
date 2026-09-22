@@ -1,17 +1,17 @@
 ---
 titulo: "Los evangelios: ¿quién los escribió y cuándo?"
 slug: autoria-evangelios
-tema: "Jesús histórico"
+tema: "Historia bíblica"
 descripcion: "Autoría y fechas: qué dicen las evidencias y qué queda en debate."
 fecha: "22 de septiembre de 2026"
 estado: publicado
 enfoque_imagen: "center center"
 ---
-*Serie: Jesús histórico*
+*Serie: Historia bíblica*
 
 ## El dato que sorprende a casi todos
 
-Categoría: Jesús histórico
+Categoría: Historia bíblica
 
 Acá va un dato que sorprende a la mayoría de los lectores, incluidos muchos cristianos: ningún evangelio dice, en su propio texto, "yo, Mateo, escribí esto". Los cuatro relatos que cuentan la vida de Jesús son, en ese sentido técnico, anónimos por dentro. Los nombres que conocemos, "según Mateo", "según Marcos", "según Lucas", "según Juan", vienen de los títulos con los que se los copió y se los distribuyó, no de una firma dentro del relato.
 
