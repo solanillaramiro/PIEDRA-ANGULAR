@@ -85,7 +85,7 @@ async function renderArticle() {
   }
 
   const parsed = readFrontmatter(await response.text());
-  const data = { ...article, ...parsed.data };
+  const data = { ...article, ...parsed.data, slug: article.slug };
   if (data.estado !== 'publicado') {
     showMessage('Artículo en proceso', 'Este texto todavía está en preparación. Volvé pronto para leerlo.');
     return;
